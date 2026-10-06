@@ -1,0 +1,7 @@
+model,variant,count,p50_ms,p95_ms
+ministral8b,retrieval,158,3609.362,9313.126
+ministral8b,tool_first,158,1362.805,8217.085
+ministral8b,hybrid,158,3744.266,9804.3
+ministral14b,retrieval,158,4060.005,13404.887
+ministral14b,tool_first,158,972.186,8756.033
+ministral14b,hybrid,158,4521.253,13262.572

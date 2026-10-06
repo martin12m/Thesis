@@ -1,0 +1,122 @@
+[
+  {
+    "sku": "VAC-DYSON-V15",
+    "price_cents": 74900,
+    "policy_codes": [],
+    "result": {
+      "infos": {
+        "title": "Dyson V15 Detect Cordless Vacuum",
+        "desc": "Cordless stick vacuum with laser dust detection and LCD screen showing particle counts.",
+        "brand": "Dyson",
+        "cats": ["Home Appliances", "Vacuum Cleaners"],
+        "avgPrice": 749.0,
+        "avgPrice_str": "749,00"
+      },
+      "score": {
+        "ratingsTotal": 355,
+        "ratingsTotal_str": "355",
+        "positiveRatio": 0.88,
+        "positiveRatio_str": "88,00",
+        "stars": 4.4,
+        "stars_str": "4,4",
+        "grade": "Sehr gut",
+        "starsDiscrete": 4.5,
+        "starsDiscrete_str": "4,5"
+      },
+      "reviews": {
+        "reviews": [
+          {
+            "id": "dys-rev-001",
+            "stars": 5,
+            "text": "The laser dust detection is genuinely useful, shows how dirty carpets actually are.",
+            "text_long": "The laser dust detection is genuinely useful, shows how dirty carpets actually are.",
+            "title": "Laser feature is not a gimmick",
+            "nw": "Amazon.de",
+            "createdAt": "22.05.2026",
+            "author": "Amazon.de Kunde",
+            "lang": "en",
+            "helpful_votes": 41,
+            "helpful_percent": 0.9
+          },
+          {
+            "id": "dys-rev-002",
+            "stars": 4,
+            "text": "Battery life is shorter than advertised on max suction mode, around 12 minutes.",
+            "text_long": "Battery life is shorter than advertised on max suction mode, around 12 minutes.",
+            "title": "Great suction, short battery on max",
+            "nw": "Otto.de",
+            "createdAt": "01.06.2026",
+            "author": "Otto.de Kunde",
+            "lang": "en",
+            "helpful_votes": 18,
+            "helpful_percent": 0.82
+          }
+        ]
+      },
+      "metaInfos": {
+        "lastUpdate_str": "18.08.2026",
+        "profileUrl": "https://www.produktbewertungen.org/dyson-v15-detect"
+      }
+    }
+  },
+  {
+    "sku": "VAC-SHARK-STRATOS",
+    "price_cents": 39900,
+    "policy_codes": [],
+    "result": {
+      "infos": {
+        "title": "Shark Stratos Cordless Vacuum",
+        "desc": "Cordless vacuum with odor neutralizer technology and clog-detection sensors.",
+        "brand": "Shark",
+        "cats": ["Home Appliances", "Vacuum Cleaners"],
+        "avgPrice": 399.0,
+        "avgPrice_str": "399,00"
+      },
+      "score": {
+        "ratingsTotal": 210,
+        "ratingsTotal_str": "210",
+        "positiveRatio": 0.81,
+        "positiveRatio_str": "81,00",
+        "stars": 4.0,
+        "stars_str": "4,0",
+        "grade": "Gut",
+        "starsDiscrete": 4.0,
+        "starsDiscrete_str": "4,0"
+      },
+      "reviews": {
+        "reviews": [
+          {
+            "id": "shk-rev-001",
+            "stars": 4,
+            "text": "Much cheaper than the Dyson and picks up pet hair very well on hard floors.",
+            "text_long": "Much cheaper than the Dyson and picks up pet hair very well on hard floors.",
+            "title": "Good budget alternative",
+            "nw": "Mediamarkt.de",
+            "createdAt": "10.07.2026",
+            "author": "Mediamarkt.de Kunde",
+            "lang": "en",
+            "helpful_votes": 15,
+            "helpful_percent": 0.77
+          },
+          {
+            "id": "shk-rev-002",
+            "stars": 3,
+            "text": "Clog-detection sensor triggers false alarms fairly often on thick carpet.",
+            "text_long": "Clog-detection sensor triggers false alarms fairly often on thick carpet.",
+            "title": "Sensor is a bit too sensitive",
+            "nw": "Saturn.de",
+            "createdAt": "15.07.2026",
+            "author": "Saturn.de Kunde",
+            "lang": "en",
+            "helpful_votes": 7,
+            "helpful_percent": 0.65
+          }
+        ]
+      },
+      "metaInfos": {
+        "lastUpdate_str": "12.08.2026",
+        "profileUrl": "https://www.produktbewertungen.org/shark-stratos"
+      }
+    }
+  }
+]

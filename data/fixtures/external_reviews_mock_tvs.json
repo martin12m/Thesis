@@ -1,0 +1,122 @@
+[
+  {
+    "sku": "TV-SAMSUNG-OLED-65",
+    "price_cents": 179900,
+    "policy_codes": [],
+    "result": {
+      "infos": {
+        "title": "Samsung OLED 65\" S90D Smart TV",
+        "desc": "65 inch 4K OLED smart TV with AI upscaling, 144Hz gaming mode, and Dolby Atmos sound.",
+        "brand": "Samsung",
+        "cats": ["Electronics", "TVs & Home Theater"],
+        "avgPrice": 1799.0,
+        "avgPrice_str": "1.799,00"
+      },
+      "score": {
+        "ratingsTotal": 842,
+        "ratingsTotal_str": "842",
+        "positiveRatio": 0.91,
+        "positiveRatio_str": "91,00",
+        "stars": 4.5,
+        "stars_str": "4,5",
+        "grade": "Sehr gut",
+        "starsDiscrete": 4.5,
+        "starsDiscrete_str": "4,5"
+      },
+      "reviews": {
+        "reviews": [
+          {
+            "id": "sams-rev-001",
+            "stars": 5,
+            "text": "Incredible black levels and the AI upscaling makes older content look fantastic.",
+            "text_long": "Incredible black levels and the AI upscaling makes older content look fantastic. Best OLED I've owned.",
+            "title": "Stunning picture quality",
+            "nw": "Amazon.de",
+            "createdAt": "12.03.2026",
+            "author": "Amazon.de Kunde",
+            "lang": "en",
+            "helpful_votes": 34,
+            "helpful_percent": 0.92
+          },
+          {
+            "id": "sams-rev-002",
+            "stars": 4,
+            "text": "Great TV overall, gaming mode is very responsive, but the remote feels cheap.",
+            "text_long": "Great TV overall, gaming mode is very responsive, but the remote feels cheap.",
+            "title": "Great for gaming",
+            "nw": "Mediamarkt.de",
+            "createdAt": "02.02.2026",
+            "author": "Mediamarkt.de Kunde",
+            "lang": "en",
+            "helpful_votes": 11,
+            "helpful_percent": 0.8
+          }
+        ]
+      },
+      "metaInfos": {
+        "lastUpdate_str": "15.08.2026",
+        "profileUrl": "https://www.produktbewertungen.org/samsung-oled-65-s90d"
+      }
+    }
+  },
+  {
+    "sku": "TV-LG-QLED-65",
+    "price_cents": 149900,
+    "policy_codes": [],
+    "result": {
+      "infos": {
+        "title": "LG QNED 65\" QLED Smart TV",
+        "desc": "65 inch 4K QLED smart TV with Quantum Dot NanoCell technology and webOS smart platform.",
+        "brand": "LG",
+        "cats": ["Electronics", "TVs & Home Theater"],
+        "avgPrice": 1499.0,
+        "avgPrice_str": "1.499,00"
+      },
+      "score": {
+        "ratingsTotal": 613,
+        "ratingsTotal_str": "613",
+        "positiveRatio": 0.86,
+        "positiveRatio_str": "86,00",
+        "stars": 4.2,
+        "stars_str": "4,2",
+        "grade": "Gut",
+        "starsDiscrete": 4.0,
+        "starsDiscrete_str": "4,0"
+      },
+      "reviews": {
+        "reviews": [
+          {
+            "id": "lg-rev-001",
+            "stars": 4,
+            "text": "Very good value for the price, colors are vivid though not quite OLED-level blacks.",
+            "text_long": "Very good value for the price, colors are vivid though not quite OLED-level blacks.",
+            "title": "Great value",
+            "nw": "Otto.de",
+            "createdAt": "20.01.2026",
+            "author": "Otto.de Kunde",
+            "lang": "en",
+            "helpful_votes": 22,
+            "helpful_percent": 0.88
+          },
+          {
+            "id": "lg-rev-002",
+            "stars": 3,
+            "text": "webOS interface has some lag and ads on the home screen are annoying.",
+            "text_long": "webOS interface has some lag and ads on the home screen are annoying.",
+            "title": "Software could be better",
+            "nw": "Saturn.de",
+            "createdAt": "05.02.2026",
+            "author": "Saturn.de Kunde",
+            "lang": "en",
+            "helpful_votes": 9,
+            "helpful_percent": 0.7
+          }
+        ]
+      },
+      "metaInfos": {
+        "lastUpdate_str": "10.08.2026",
+        "profileUrl": "https://www.produktbewertungen.org/lg-qned-65"
+      }
+    }
+  }
+]

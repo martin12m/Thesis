@@ -1,0 +1,7 @@
+model,variant,count,success_rate
+ministral8b,retrieval,158,1.0
+ministral8b,tool_first,158,0.8797
+ministral8b,hybrid,158,0.8608
+ministral14b,retrieval,158,1.0
+ministral14b,tool_first,158,0.8797
+ministral14b,hybrid,158,0.8608

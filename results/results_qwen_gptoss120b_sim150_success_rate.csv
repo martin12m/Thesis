@@ -1,0 +1,7 @@
+model,variant,count,success_rate
+qwen,retrieval,158,1.0
+qwen,tool_first,158,0.8671
+qwen,hybrid,158,0.8481
+gptoss120b,retrieval,158,0.9494
+gptoss120b,tool_first,158,0.7658
+gptoss120b,hybrid,158,0.7532

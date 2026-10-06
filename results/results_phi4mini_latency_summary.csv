@@ -1,0 +1,4 @@
+variant,count,p50_ms,p95_ms
+retrieval,28,18238.947,167692.851
+tool_first,28,16305.9,170556.031
+hybrid,28,22435.718,150658.506

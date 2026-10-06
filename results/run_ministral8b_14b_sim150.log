@@ -1,0 +1,5 @@
+Generated 150 simulated-user scenarios.
+Wrote generated scenarios to out/results_ministral8b_14b_sim150_simulated_scenarios.json
+Wrote 948 evaluation rows to out/results_ministral8b_14b_sim150.csv
+Wrote latency percentile summary to out/results_ministral8b_14b_sim150_latency_summary.csv
+Wrote success-rate (Reliability) summary to out/results_ministral8b_14b_sim150_success_rate.csv

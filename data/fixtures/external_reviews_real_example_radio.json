@@ -1,0 +1,1643 @@
+{
+    "status": true,
+    "statusMsg": "success",
+    "result": {
+        "metaInfos": {
+            "lastUpdate": 1776110066,
+            "lastUpdate_str": "13.04.2026",
+            "profileUrlDe": "https://www.produktbewertungen.org/teufel-radio-3sixty-51DB3A2A58",
+            "profileUrlEn": "https://www.produktbewertungen.org/teufel-radio-3sixty-51DB3A2A58-en",
+            "profileUrlFr": "https://www.produktbewertungen.org/teufel-radio-3sixty-51DB3A2A58-fr",
+            "profileUrlIt": "https://www.produktbewertungen.org/teufel-radio-3sixty-51DB3A2A58-it",
+            "profileUrlEs": "https://www.produktbewertungen.org/teufel-radio-3sixty-51DB3A2A58-es",
+            "profileUrlNl": "https://www.produktbewertungen.org/teufel-radio-3sixty-51DB3A2A58-nl",
+            "profileUrlPl": "https://www.produktbewertungen.org/teufel-radio-3sixty-51DB3A2A58-pl",
+            "profileUrl": "https://www.produktbewertungen.org/teufel-radio-3sixty-51DB3A2A58",
+            "maxAvailableReviews": 90,
+            "maxAvailableReviewsFiltered": 50,
+            "ownReviewLimit": 1000,
+            "isCustomProduct": false,
+            "ranks": [
+                {
+                    "max": 0,
+                    "output": "0"
+                },
+                {
+                    "max": 5,
+                    "output": "1+"
+                },
+                {
+                    "max": 10,
+                    "output": "5+"
+                },
+                {
+                    "max": 25,
+                    "output": "10+"
+                },
+                {
+                    "max": 50,
+                    "output": "25+"
+                },
+                {
+                    "max": 100,
+                    "output": "50+"
+                },
+                {
+                    "max": 250,
+                    "output": "100+"
+                },
+                {
+                    "max": 500,
+                    "output": "250+"
+                },
+                {
+                    "max": 1000,
+                    "output": "500+"
+                },
+                {
+                    "max": 1500,
+                    "output": "1000+"
+                },
+                {
+                    "max": 2000,
+                    "output": "1500+"
+                },
+                {
+                    "max": 2500,
+                    "output": "2000+"
+                },
+                {
+                    "max": 3000,
+                    "output": "2500+"
+                },
+                {
+                    "max": 3500,
+                    "output": "3000+"
+                },
+                {
+                    "max": 4000,
+                    "output": "3500+"
+                },
+                {
+                    "max": 4500,
+                    "output": "4000+"
+                },
+                {
+                    "max": 5000,
+                    "output": "4500+"
+                },
+                {
+                    "max": 9223372036854775807,
+                    "output": ">5000"
+                }
+            ]
+        },
+        "infos": {
+            "title": "Teufel Radio 3SIXTY - Premium Digitalradio Bluetooth Lautsprecher, 360 Grad Sound, DAB+, Internetradio, Powerbank-Funktion, Subwoofer, Weckfunktion, Musik-Streaming - Schwarz",
+            "img": "https://m.media-amazon.com/images/I/31VqT9An1dL.jpg",
+            "desc": "Darum lieben wir dieses ProduktDas RADIO 3SIXTY verbindet die Designsprache klassischer Radios mit moderner Technologie. Bediene es per App, Fernbedienung oder direkt am Gerät. Spiele Musik über DAB+, Internetradio, Amazon Music oder Spotify und erlebe 360-Grad-Sound mit Teufel Dynamore®.Die Vorteile im ÜberblickPremium Digitalradio mit 1000+ Radiosender über DAB+, Internet oder FM-Empfang und Musik über Amazon Music, Spotify, USB-Playback sowie verlustfrei direkt vom Smartphone360-Grad-Sound",
+            "brand": "Teufel",
+            "cats": [
+                "Computer, Multimedia & Audio"
+            ],
+            "avgPrice": 284.99,
+            "avgPrice_str": "284,99"
+        },
+        "score": {
+            "ratingsTotal": 934,
+            "ratingsTotal_str": "934",
+            "ratingsTotal_withoutOwnRatings": 934,
+            "positiveRatio": 0.9358,
+            "positiveRatio_str": "93,58",
+            "stars": 4.68,
+            "stars_str": "4,68",
+            "grade": "Sehr Gut",
+            "starsDiscrete": 4.5,
+            "starsDiscrete_str": "4,5",
+            "lastCalcTime": "14.04.2026",
+            "stars_distribution": {
+                "star_1": {
+                    "total": 23,
+                    "total_str": "23",
+                    "percent": 0.024625267665953,
+                    "percent_str": "2,46"
+                },
+                "star_2": {
+                    "total": 15,
+                    "total_str": "15",
+                    "percent": 0.016059957173448,
+                    "percent_str": "1,61"
+                },
+                "star_3": {
+                    "total": 32,
+                    "total_str": "32",
+                    "percent": 0.034261241970021,
+                    "percent_str": "3,43"
+                },
+                "star_4": {
+                    "total": 99,
+                    "total_str": "99",
+                    "percent": 0.10599571734475,
+                    "percent_str": "10,60"
+                },
+                "star_5": {
+                    "total": 765,
+                    "total_str": "765",
+                    "percent": 0.81905781584582,
+                    "percent_str": "81,91"
+                }
+            },
+            "mergedNetworkScores": [
+                {
+                    "total": 45,
+                    "score": 2,
+                    "externalScore": 45,
+                    "positive": 0.96,
+                    "variations": [
+                        {
+                            "title": "Teufel RADIO 3SIXTY Internet-Radio (Alarmfunktion, DAB+, FM - UKW, Internetradio, RDS,"
+                        }
+                    ],
+                    "name": "Otto.de",
+                    "positiveRatio": 0.96,
+                    "stars_rating_discrete": 5,
+                    "stars_rating": 4.8,
+                    "positiveRatio_str": "96,00",
+                    "stars_distribution": {
+                        "star_1": {
+                            "total": 0,
+                            "percent": 0,
+                            "percent_str": "0,00"
+                        },
+                        "star_2": {
+                            "total": 2,
+                            "percent": 0.044444444444444,
+                            "percent_str": "4,44"
+                        },
+                        "star_3": {
+                            "total": 1,
+                            "percent": 0.022222222222222,
+                            "percent_str": "2,22"
+                        },
+                        "star_4": {
+                            "total": 1,
+                            "percent": 0.022222222222222,
+                            "percent_str": "2,22"
+                        },
+                        "star_5": {
+                            "total": 41,
+                            "percent": 0.91111111111111,
+                            "percent_str": "91,11"
+                        }
+                    },
+                    "stars_rating_str": "4,80",
+                    "stars_rating_discrete_str": "5,00",
+                    "total_str": "45,00"
+                },
+                {
+                    "total": 439,
+                    "score": 1.625,
+                    "externalScore": 406.075,
+                    "positive": 0.94441913439636,
+                    "variations": [
+                        {
+                            "title": "Teufel Radio 3SIXTY - Premium Digitalradio Bluetooth Lautsprecher, 360 Grad Sound, DAB+,"
+                        },
+                        {
+                            "title": "Teufel Radio 3SIXTY - Premium Digitalradio Bluetooth Lautsprecher, 360 Grad Sound, DAB+,"
+                        },
+                        {
+                            "title": "Teufel Radio 3Sixty Enceinte Radio Internet, Bluetooth, FM/Dab+, Son à 360 degrés avec subwoofer"
+                        },
+                        {
+                            "title": "Teufel Radio 3Sixty Enceinte Radio Internet, WiFi et Bluetooth, FM/Dab+, Son à 360 degrés avec"
+                        },
+                        {
+                            "title": "Teufel Radio 3SIXTY Bluetooth Speaker with Premium Digital Radio DAB +, 360 Degree Sound and"
+                        },
+                        {
+                            "title": "Teufel RADIO 3SIXTY - Internetradio met DAB+ /FM, Bluetooth, Spotify Connect, 360-gradengeluid,"
+                        },
+                        {
+                            "title": "Teufel RADIO 3SIXTY, Altoparlante e Radio Bluetooth, Radio DAB + e FM, Subwoofer, Radio Internet e"
+                        },
+                        {
+                            "title": "Teufel RADIO 3SIXTY - Internetradio met DAB+ /FM, Bluetooth, Spotify Connect, 360-gradengeluid,"
+                        },
+                        {
+                            "title": "Teufel Radio 3SIXTY - Altavoz Bluetooth con Radio Digital Premium Internet Dab+, Sonido de 360"
+                        },
+                        {
+                            "title": "Teufel Radio 3SIXTY - Altavoz Bluetooth con Radio Digital Premium Internet Dab+, Sonido de 360"
+                        }
+                    ],
+                    "name": "Amazon",
+                    "positiveRatio": 0.94441913439636,
+                    "stars_rating_discrete": 4.5,
+                    "stars_rating": 4.7220956719818,
+                    "positiveRatio_str": "94,44",
+                    "stars_distribution": {
+                        "star_1": {
+                            "total": 9,
+                            "percent": 0.020501138952164,
+                            "percent_str": "2,05"
+                        },
+                        "star_2": {
+                            "total": 4,
+                            "percent": 0.0091116173120729,
+                            "percent_str": "0,91"
+                        },
+                        "star_3": {
+                            "total": 13,
+                            "percent": 0.029612756264237,
+                            "percent_str": "2,96"
+                        },
+                        "star_4": {
+                            "total": 48,
+                            "percent": 0.10933940774487,
+                            "percent_str": "10,93"
+                        },
+                        "star_5": {
+                            "total": 365,
+                            "percent": 0.83143507972665,
+                            "percent_str": "83,14"
+                        }
+                    },
+                    "stars_rating_str": "4,72",
+                    "stars_rating_discrete_str": "4,50",
+                    "total_str": "439,00"
+                },
+                {
+                    "total": 450,
+                    "score": 1.6244444444444,
+                    "externalScore": 416.2,
+                    "positive": 0.92488888888889,
+                    "variations": [
+                        {
+                            "title": "Teufel Radio 3SIXTY Internetradio Bluetooth 360° Sound Dynamore Noir"
+                        },
+                        {
+                            "title": "Teufel Radio 3SIXTY Poste Radio WiFi et Bluetooth, Radio FM/Dab+, Spotify Connect et Amazon Music,"
+                        },
+                        {
+                            "title": "Teufel RADIO 3SIXTY | Internetradio met DAB+, FM, bluetooth, Spotify Connect & 360-gradensound -"
+                        },
+                        {
+                            "title": "Teufel RADIO 3SIXTY | Internetradio met DAB+, FM, bluetooth, Spotify Connect & 360-gradensound - wit"
+                        },
+                        {
+                            "title": "Teufel Radio 3SIXTY DAB+ Internet Radio Stereo Lautsprecher Musik 360-Grad-Sound Dank Dynamore"
+                        },
+                        {
+                            "title": "Teufel Radio 3SIXTY (Negro) - Radio FM/Dab+ estéreo con Bluetooth, Entrada de USB, Spotify…"
+                        },
+                        {
+                            "title": "Teufel 3Sixty Radio Digital Internet DAB+ FM Radio with Subwoofer, Remote Control, AUX Input, Power"
+                        },
+                        {
+                            "title": "3SIXTY"
+                        },
+                        {
+                            "title": "Teufel Radio 3SIXTY DAB+ Internet Radio Stereo Lautsprecher Musik 360-Grad-Sound Dank Dynamore"
+                        },
+                        {
+                            "title": "Teufel Radio 3SIXTY (Blanco) - Radio FM/Dab+ estéreo con Bluetooth, Entrada de USB, Spotify..."
+                        },
+                        {
+                            "title": "Teufel Radio 3SIXTY, Hi Fi Radio, colour: white."
+                        },
+                        {
+                            "title": "Teufel Radio 3Sixty, Radio Digitale Internet DAB+ FM con Telecomando, Ingresso AUX, Funzione Power"
+                        }
+                    ],
+                    "name": "Amazon",
+                    "positiveRatio": 0.92488888888889,
+                    "stars_rating_discrete": 4.5,
+                    "stars_rating": 4.6244444444444,
+                    "positiveRatio_str": "92,49",
+                    "stars_distribution": {
+                        "star_1": {
+                            "total": 14,
+                            "percent": 0.031111111111111,
+                            "percent_str": "3,11"
+                        },
+                        "star_2": {
+                            "total": 9,
+                            "percent": 0.02,
+                            "percent_str": "2,00"
+                        },
+                        "star_3": {
+                            "total": 18,
+                            "percent": 0.04,
+                            "percent_str": "4,00"
+                        },
+                        "star_4": {
+                            "total": 50,
+                            "percent": 0.11111111111111,
+                            "percent_str": "11,11"
+                        },
+                        "star_5": {
+                            "total": 359,
+                            "percent": 0.79777777777778,
+                            "percent_str": "79,78"
+                        }
+                    },
+                    "stars_rating_str": "4,62",
+                    "stars_rating_discrete_str": "4,50",
+                    "total_str": "450,00"
+                }
+            ]
+        },
+        "reviews": {
+            "reviews": [
+                {
+                    "id": "47534512cc3daf9c7bc4d8e36938ed0d",
+                    "stars": 5,
+                    "text": "Das Radio hat mehrere Möglichkeiten Sendequellen zu nützen. Das Gerät hat einen satten Klang, was besonders bei Musik sehr angenehm ist. Für mich ist es sehr empfehlenswert.",
+                    "text_long": "Das Radio hat mehrere Möglichkeiten Sendequellen zu nützen. Das Gerät hat einen satten Klang, was besonders bei Musik sehr angenehm ist. Für mich ist es sehr empfehlenswert.",
+                    "title": "Sehr guter Kauf",
+                    "nw": "Amazon.de",
+                    "createdAt": "06.04.2026",
+                    "author": "Amazon.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "74b7e73a11a4b36daf0e653e0765c284",
+                    "stars": 5,
+                    "text": "Geniale Klangqualität \nGeht nichts über Teufel  TOP",
+                    "text_long": "Geniale Klangqualität \nGeht nichts über Teufel  TOP",
+                    "title": "Top Radio",
+                    "nw": "Otto.de",
+                    "createdAt": "03.04.2026",
+                    "author": "Otto.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "570352ee07f9430c813d2a2437a9892d",
+                    "stars": 4,
+                    "text": "Excellent",
+                    "text_long": "Excellent",
+                    "title": "Bon son",
+                    "nw": "Amazon.fr",
+                    "createdAt": "01.04.2026",
+                    "author": "Amazon.fr Kunde",
+                    "original_lang": "en",
+                    "is_translation": false,
+                    "lang": "en",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "d392feb51754bcdd9f49b84a66739dd1",
+                    "stars": 5,
+                    "text": "Tolles Teil, guter Sound für die Größe.",
+                    "text_long": "Tolles Teil, guter Sound für die Größe.",
+                    "title": "Heißer Teufel 😈",
+                    "nw": "Amazon.de",
+                    "createdAt": "04.03.2026",
+                    "author": "Amazon.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": 1,
+                    "helpful_percent": 1
+                },
+                {
+                    "id": "d1b9db8df2c3d4d9c32b5ea164b93de1",
+                    "stars": 5,
+                    "text": "Super Internetradio ! Perfekter Sound,  wie gewohnt von Teufel !!! Bei der Installation zwei Versuche , dann alles ok !Lieferung frÃ¼her als erwartet! Klare Kaufempfehlung! FÃ¼r mich â˜†â˜†â˜†â˜†â˜†  !!!",
+                    "text_long": "Super Internetradio ! Perfekter Sound,  wie gewohnt von Teufel !!! Bei der Installation zwei Versuche , dann alles ok !Lieferung frÃ¼her als erwartet! Klare Kaufempfehlung! FÃ¼r mich â˜†â˜†â˜†â˜†â˜†  !!!",
+                    "title": "Kaufempfehlung",
+                    "nw": "Amazon.de",
+                    "createdAt": "22.02.2026",
+                    "author": "Amazon.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": 3,
+                    "helpful_percent": 1
+                },
+                {
+                    "id": "bbb020db19e4d722c017a454f2f669e9",
+                    "stars": 5,
+                    "text": "Great product!!! Amazing build and sound quality!!! Very stylish and slick looking.Only one small thing is I did order the white version but remote control it&#39;s black which I think can be thisame colour.",
+                    "text_long": "Great product!!! Amazing build and sound quality!!! Very stylish and slick looking.Only one small thing is I did order the white version but remote control it&#39;s black which I think can be thisame colour.",
+                    "title": "Amazing sound and much more",
+                    "nw": "Amazon.de",
+                    "createdAt": "19.02.2026",
+                    "author": "Amazon.de Kunde",
+                    "original_lang": "en",
+                    "is_translation": false,
+                    "lang": "en",
+                    "helpful_votes": 4,
+                    "helpful_percent": 1
+                },
+                {
+                    "id": "df3fd56da42e6e563184eb32b69756a3",
+                    "stars": 5,
+                    "text": "Es ist einfach ein geiles Gerät. Meine Frau verwendet es ausschließlich über Wlan.Nachdem wir die Teufel Musicstation erworben hatten, haben wir innerhalb von zwei Tagen dieses weitere Gerät bestellt.",
+                    "text_long": "Es ist einfach ein geiles Gerät. Meine Frau verwendet es ausschließlich über Wlan.Nachdem wir die Teufel Musicstation erworben hatten, haben wir innerhalb von zwei Tagen dieses weitere Gerät bestellt.",
+                    "title": "Teufel Musicstation und Internetradio, super Sound!",
+                    "nw": "Amazon.de",
+                    "createdAt": "02.02.2026",
+                    "author": "Amazon.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": 2,
+                    "helpful_percent": 1
+                },
+                {
+                    "id": "f5a727331ed6ff3bc2d3a2cad6c99672",
+                    "stars": 5,
+                    "text": "Top Sound, Verbindung klappte einwandfrei",
+                    "text_long": "Top Sound, Verbindung klappte einwandfrei",
+                    "title": "Toller Sound",
+                    "nw": "Otto.de",
+                    "createdAt": "02.02.2026",
+                    "author": "Otto.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "3de46b87775abb623a5aa66ade243387",
+                    "stars": 5,
+                    "text": "Marca che non conoscevo ma i prodotti che ho preso sono di ottima qualità",
+                    "text_long": "Marca che non conoscevo ma i prodotti che ho preso sono di ottima qualità",
+                    "title": "Radio DAB",
+                    "nw": "Amazon.it",
+                    "createdAt": "29.01.2026",
+                    "author": "Amazon.it Kunde",
+                    "original_lang": "it",
+                    "is_translation": false,
+                    "lang": "it",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "a69d8cd3e0a6c904c36b95c212f9019e",
+                    "stars": 5,
+                    "text": "Très satisfait de ma radio internet par le menu est uniquement en allemand et anglais sur la radio.  Heureusement qu&#39;il y a l&#39;application Teufel pour gérer la radio. Le son est vraiment top. Je recommande",
+                    "text_long": "Très satisfait de ma radio internet par le menu est uniquement en allemand et anglais sur la radio.  Heureusement qu&#39;il y a l&#39;application Teufel pour gérer la radio. Le son est vraiment top. Je recommande",
+                    "title": "Son géniale",
+                    "nw": "Amazon.fr",
+                    "createdAt": "24.01.2026",
+                    "author": "Amazon.fr Kunde",
+                    "original_lang": "fr",
+                    "is_translation": false,
+                    "lang": "fr",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "8116f0cdd2e214bfe7b0486d3f32c064",
+                    "stars": 5,
+                    "text": "Der  Klang und der Sound sind einfach Spitze. TEUFEL halt ... bin begeistert...",
+                    "text_long": "Der  Klang und der Sound sind einfach Spitze. TEUFEL halt ... bin begeistert...",
+                    "title": "Super  Tolles Rsdio",
+                    "nw": "Otto.de",
+                    "createdAt": "19.01.2026",
+                    "author": "Otto.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "39c0220bcf0becc0b6d2385bb8c99b92",
+                    "stars": 5,
+                    "text": "Funktioniert Super, weiter zu empfehlen.",
+                    "text_long": "Funktioniert Super, weiter zu empfehlen.",
+                    "title": "Super Radio",
+                    "nw": "Otto.de",
+                    "createdAt": "16.01.2026",
+                    "author": "Otto.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "62cf6ae6cfcf70e8c8c8c26224b74c18",
+                    "stars": 5,
+                    "text": "Radio eccezionale sotto tutti i punti di vista: design, praticità d&#39;uso, ricchezza e razionalità delle funzioni, qualità dell&#39;audio. La consiglio.",
+                    "text_long": "Radio eccezionale sotto tutti i punti di vista: design, praticità d&#39;uso, ricchezza e razionalità delle funzioni, qualità dell&#39;audio. La consiglio.",
+                    "title": "Perfetta!",
+                    "nw": "Amazon.it",
+                    "createdAt": "12.01.2026",
+                    "author": "Amazon.it Kunde",
+                    "original_lang": "it",
+                    "is_translation": false,
+                    "lang": "it",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "9d09a4dc9c61df8fcfc38c94d72da841",
+                    "stars": 5,
+                    "text": "Hatte mir zuerst von Teufel eine Bluetoothbox zugelegt. Nachdem ich aber merkte, dass ich sie nur als stationÃ¤res GerÃ¤t benutzte habe ich sie problemlos zurÃ¼ck geschickt und mir dafÃ¼r den Teufel Radio 3SIXTY zugelegt. Bin vÃ¶llig begeistert von dem Teil. Super Klang (individuell einstellbarer Sound) und mannigfaltige AbspielmÃ¶glichkeiten. Amazon Music bzw. Spotify interessiert mich weniger. Wichtig ist mir Radio. Als DAB oder als Internetradio. Und natÃ¼rlich Bluetooth. Handy, Tablet und",
+                    "text_long": "Hatte mir zuerst von Teufel eine Bluetoothbox zugelegt. Nachdem ich aber merkte, dass ich sie nur als stationÃ¤res GerÃ¤t benutzte habe ich sie problemlos zurÃ¼ck geschickt und mir dafÃ¼r den Teufel Radio 3SIXTY zugelegt. Bin vÃ¶llig begeistert von dem Teil. Super Klang (individuell einstellbarer Sound) und mannigfaltige AbspielmÃ¶glichkeiten. Amazon Music bzw. Spotify interessiert mich weniger. Wichtig ist mir Radio. Als DAB oder als Internetradio. Und natÃ¼rlich Bluetooth. Handy, Tablet und vor allem mein Bluetooth Plattenspieler wurden sofort erkannt. Top. AuÃŸerdem begeistert es mich, dass die Fernbedienung praktisch Ã¼berflÃ¼ssig ist. Nach der Installation der Teufel Remote App kann man locker alles bequem vom Handy bzw. Tablet bedienen. Besser geht&#39;s nicht.",
+                    "title": "Lob Lob fÃ¼r Teufel",
+                    "nw": "Amazon.de",
+                    "createdAt": "10.01.2026",
+                    "author": "Amazon.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": 1,
+                    "helpful_percent": 1
+                },
+                {
+                    "id": "d547b18f544651314039c34c84ee73a7",
+                    "stars": 5,
+                    "text": "Un&#39;ottima radio che rispecchia le aspettative. Qualità del suono e bel design.",
+                    "text_long": "Un&#39;ottima radio che rispecchia le aspettative. Qualità del suono e bel design.",
+                    "title": "Soddisfatti dell&#39;acquisto",
+                    "nw": "Amazon.it",
+                    "createdAt": "06.01.2026",
+                    "author": "Amazon.it Kunde",
+                    "original_lang": "it",
+                    "is_translation": false,
+                    "lang": "it",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "74110a0c7c2c6f9c8eb6817e75f42740",
+                    "stars": 5,
+                    "text": "Ein Ã¼belst sensationeller Sound, den der Zwerg da rauskloppt. Kein Klirren und Kratzen und tiefe BÃ¤sse ohne DrÃ¶hnen. Der Preis durchaus gerechtfertigt fÃ¼r die unerwartete Leistung. Die Anzahl der verschiedenen EingÃ¤nge sind ausreichend und die Bedienung kinderleicht durch den Jog dial und das Display. Einfach teuflisch geil.",
+                    "text_long": "Ein Ã¼belst sensationeller Sound, den der Zwerg da rauskloppt. Kein Klirren und Kratzen und tiefe BÃ¤sse ohne DrÃ¶hnen. Der Preis durchaus gerechtfertigt fÃ¼r die unerwartete Leistung. Die Anzahl der verschiedenen EingÃ¤nge sind ausreichend und die Bedienung kinderleicht durch den Jog dial und das Display. Einfach teuflisch geil.",
+                    "title": "Schlanker Body, fetter Sound",
+                    "nw": "Amazon.de",
+                    "createdAt": "06.01.2026",
+                    "author": "Amazon.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": 5,
+                    "helpful_percent": 1
+                },
+                {
+                    "id": "d54291ab61f11297f944c96ab593ac30",
+                    "stars": 5,
+                    "text": "Super Radio. Der Klang - für so ein relativ kleines Radio - als auch die Optik wirklich super. Bin auch schon oft auf das stylische Aussehen angesprochen worden.",
+                    "text_long": "Super Radio. Der Klang - für so ein relativ kleines Radio - als auch die Optik wirklich super. Bin auch schon oft auf das stylische Aussehen angesprochen worden.",
+                    "title": "Qualität und Optik",
+                    "nw": "Amazon.de",
+                    "createdAt": "04.01.2026",
+                    "author": "Amazon.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "e0648fa412f9a9b757b919c4b6f84132",
+                    "stars": 5,
+                    "text": "Radio de qualité exceptionnel de niveau hi fi vraiment TOP ( Comme toute la gamme Teufel de qualité Allemande )",
+                    "text_long": "Radio de qualité exceptionnel de niveau hi fi vraiment TOP ( Comme toute la gamme Teufel de qualité Allemande )",
+                    "title": "Radio de qualité exceptionnel",
+                    "nw": "Amazon.fr",
+                    "createdAt": "04.01.2026",
+                    "author": "Amazon.fr Kunde",
+                    "original_lang": "fr",
+                    "is_translation": false,
+                    "lang": "fr",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "32893f7c9246107b8955fab8c5204fb6",
+                    "stars": 5,
+                    "text": "Erste Installation einfach erklärt sich von selbst im Grunde genommen. Alle Programme sind gut zu empfangen auch Internet dab ist vom Standort abhängig jederzeit wieder",
+                    "text_long": "Erste Installation einfach erklärt sich von selbst im Grunde genommen. Alle Programme sind gut zu empfangen auch Internet dab ist vom Standort abhängig jederzeit wieder",
+                    "title": "Top gerät teuflich!!!",
+                    "nw": "Otto.de",
+                    "createdAt": "27.12.2025",
+                    "author": "Otto.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "749bf70f9ed1070ad50516f20259090e",
+                    "stars": 3,
+                    "text": "Also ich bin mehr als überrascht von diesen überwiegend positiven Bewertungen hier. Die App hat ohne Ende Fehler und ist sehr langsam. Das Radio selbst könnte auch schneller sein für den Preis und hat auch Fehler im Menü. Updates Fehlanzeige? Aber vor allem der Klang. Was für ein Armutszeugnis für die Marke! Mir war Internetradio wichtig. Na ja, das funktioniert ja. Und es steht in der Küche. Dafür reicht der Klang. Aber das hätte ich für weniger als die Hälfte haben können. Bin nur zu faul zum",
+                    "text_long": "Also ich bin mehr als überrascht von diesen überwiegend positiven Bewertungen hier. Die App hat ohne Ende Fehler und ist sehr langsam. Das Radio selbst könnte auch schneller sein für den Preis und hat auch Fehler im Menü. Updates Fehlanzeige? Aber vor allem der Klang. Was für ein Armutszeugnis für die Marke! Mir war Internetradio wichtig. Na ja, das funktioniert ja. Und es steht in der Küche. Dafür reicht der Klang. Aber das hätte ich für weniger als die Hälfte haben können. Bin nur zu faul zum zurückschicken. Leute, nehmt ein Medion. Besser ist das hier auch nicht.",
+                    "title": "Oje",
+                    "nw": "Otto.de",
+                    "createdAt": "16.12.2025",
+                    "author": "Otto.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": 5,
+                    "helpful_percent": 0.6
+                },
+                {
+                    "id": "4787c25d3dc8c8db042b15bebf8c89cb",
+                    "stars": 5,
+                    "text": "Son incroyable, fonctions complètes. Je suis très content.Dommage qu&#39;après une coupure de courant quand on le déplace par exemple, il ne redémarre pas direct, il faut passer par quelques menus.",
+                    "text_long": "Son incroyable, fonctions complètes. Je suis très content.Dommage qu&#39;après une coupure de courant quand on le déplace par exemple, il ne redémarre pas direct, il faut passer par quelques menus.",
+                    "title": "Excellent son",
+                    "nw": "Amazon.fr",
+                    "createdAt": "13.12.2025",
+                    "author": "Amazon.fr Kunde",
+                    "original_lang": "fr",
+                    "is_translation": false,
+                    "lang": "fr",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "86fdae6453c4f15d5358c48a5f4bd103",
+                    "stars": 5,
+                    "text": "Ottimo prodotto",
+                    "text_long": "Ottimo prodotto",
+                    "title": "Buon suono",
+                    "nw": "Amazon.it",
+                    "createdAt": "11.12.2025",
+                    "author": "Amazon.it Kunde",
+                    "original_lang": "it",
+                    "is_translation": false,
+                    "lang": "it",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "dd78864b9175f683de57fff5c4bf3269",
+                    "stars": 5,
+                    "text": "Hatte mich gescheut, soviel geld für ein radio auszugeben, aber es hat sich gelohnt. Toller klang, leichte installation.",
+                    "text_long": "Hatte mich gescheut, soviel geld für ein radio auszugeben, aber es hat sich gelohnt. Toller klang, leichte installation.",
+                    "title": "Super",
+                    "nw": "Otto.de",
+                    "createdAt": "30.11.2025",
+                    "author": "Otto.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "a825ccfb35e1d20dc8194f63b78b8282",
+                    "stars": 5,
+                    "text": "Ottimo prodotto",
+                    "text_long": "Ottimo prodotto",
+                    "title": "Radio Smart",
+                    "nw": "Amazon.it",
+                    "createdAt": "29.11.2025",
+                    "author": "Amazon.it Kunde",
+                    "original_lang": "it",
+                    "is_translation": false,
+                    "lang": "it",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "b573c0feaf5d02feb7cc3704e3c79346",
+                    "stars": 4,
+                    "text": "Das Teufel Radio macht was es soll, guter Empfang, in unserer Wohnung bei UKW und DAB+, ohne die Antenne auszuziehen. Der Klang ist für so ein kleines Gerät wirklich sehr gut. Nur 4 Sterne aus mehreren Gründen:- Es gibt nur 4 Stationstasten, es können aber 30 Sender gespeichert werden. Also muss immer das Smartphone in die Hand genommen werden, um Sender ab Speicherplatz 5 zu spielen.- Beworben wird es mit Sprachsteuerung über Google Nest Geräte, was im Prinzip funktioniert. Es ist jedoch",
+                    "text_long": "Das Teufel Radio macht was es soll, guter Empfang, in unserer Wohnung bei UKW und DAB+, ohne die Antenne auszuziehen. Der Klang ist für so ein kleines Gerät wirklich sehr gut. Nur 4 Sterne aus mehreren Gründen:- Es gibt nur 4 Stationstasten, es können aber 30 Sender gespeichert werden. Also muss immer das Smartphone in die Hand genommen werden, um Sender ab Speicherplatz 5 zu spielen.- Beworben wird es mit Sprachsteuerung über Google Nest Geräte, was im Prinzip funktioniert. Es ist jedoch umständlich, da es sich nicht um einen eingebauten Chromcast handelt. Um die Sprachsteuerung zu erreichen also erst Bluetooth am Google Nest Gerät aktivieren, am Radio auf den Bluetooth Eingang umschalten, dann geht es. Ist jedoch sehr umständlich. Also habe ich eine alten Chromcast Audio an den AUX-Eingang abgeschlossen , muss nur einmal am Radio den Eingang umschalten und kann von allen Geräten auf das Radio streamen.- In der App sind Links enthalten die ins Leere führen, die Seiten gibt es scheinbar nicht mehrZusammenfassend bin ich zufrieden, mit den kleinen erwähnten Abstrichen",
+                    "title": "Insgesamt zufrieden",
+                    "nw": "Amazon.de",
+                    "createdAt": "28.11.2025",
+                    "author": "Amazon.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": 17,
+                    "helpful_percent": 1
+                },
+                {
+                    "id": "201e7f3c89e061a52ca3d2f57af1d9fd",
+                    "stars": 5,
+                    "text": "Produit conforme à la description, qualité sonore excellente avec des aigus clairs et des basses assez profondes. La réception du dab+ est très bonne, je reçois une centaine de station dab+ .Le bluetooth se connecte facilement. Je conseille vivement.",
+                    "text_long": "Produit conforme à la description, qualité sonore excellente avec des aigus clairs et des basses assez profondes. La réception du dab+ est très bonne, je reçois une centaine de station dab+ .Le bluetooth se connecte facilement. Je conseille vivement.",
+                    "title": "Excellente radio connectée",
+                    "nw": "Amazon.fr",
+                    "createdAt": "25.11.2025",
+                    "author": "Amazon.fr Kunde",
+                    "original_lang": "fr",
+                    "is_translation": false,
+                    "lang": "fr",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "6788c0dc134b53b1bdfe760f8e1f55f9",
+                    "stars": 5,
+                    "text": "Nach anfänlichen Probemen, die mit dem Support von Teufel vollständig gelöst wurden, läuft das Radio perfekt! Also ich kann es voll empfehlen! ...Obercool! :)",
+                    "text_long": "Nach anfänlichen Probemen, die mit dem Support von Teufel vollständig gelöst wurden, läuft das Radio perfekt! Also ich kann es voll empfehlen! ...Obercool! :)",
+                    "title": "Sound vom anderen Stern",
+                    "nw": "Otto.de",
+                    "createdAt": "18.11.2025",
+                    "author": "Otto.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "d80487b24189a72b4ddab2f1e48254d3",
+                    "stars": 5,
+                    "text": "Dieses tolle Gerät ist nun seit vier Wochen bei mir in Betrieb und ich kann es nur in höchsten Tönen loben. Einfach und selbsterklärend einzustellen,  einfach zu bedienen und das Ganze mit einem für die Größe wirklich sehr guten Klang verbunden. Bluetooth klappt auch problemlos, sogar über mehrere Räume hinweg. In erster Linie benutze ich eben Bluetooth und DAB Radio und läuft alles in guter Qualität und ohne Probleme. Bass und Höhen kann man gut auf seine persönlichen Vorlieben einstellen.Eine",
+                    "text_long": "Dieses tolle Gerät ist nun seit vier Wochen bei mir in Betrieb und ich kann es nur in höchsten Tönen loben. Einfach und selbsterklärend einzustellen,  einfach zu bedienen und das Ganze mit einem für die Größe wirklich sehr guten Klang verbunden. Bluetooth klappt auch problemlos, sogar über mehrere Räume hinweg. In erster Linie benutze ich eben Bluetooth und DAB Radio und läuft alles in guter Qualität und ohne Probleme. Bass und Höhen kann man gut auf seine persönlichen Vorlieben einstellen.Eine Kleinigkeit habe ich auszusetzen bzw. verstehe ich nicht. Wenn ich mit meinem iPod über Bluetooth Musik abspiele, wird das Cover leider nicht angezeigt wie bei iPad oder Amazon music. Da es allerdings sowieso nur sehr klein angezeigt wird, ist das nicht so wichtig. Der Klang ist und bleibt das Entscheidende. Von daher klare Weiterempfehlung.",
+                    "title": "Einfache Handhabung und toller Klang - was will man mehr?",
+                    "nw": "Amazon.de",
+                    "createdAt": "13.11.2025",
+                    "author": "Amazon.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": 20,
+                    "helpful_percent": 1
+                },
+                {
+                    "id": "fc27b627b73de40eef86ce46a9af6f0f",
+                    "stars": 5,
+                    "text": "A la recherche d&#39;un poste recevant le DAB+, j&#39;ai choisi ce poste radio en dépit de son prix. Mais son prix est justifié car c&#39;est bien plus qu&#39;un simple poste radio ! L&#39;ère des CD sur la chaine familiale étant révolu, comme beaucoup, j&#39;écoute le geant suédois du streaming ... Donc, ce qui va faire la différence n&#39;est plus la source, mais la sortie : la qualité du son. Et c&#39;est là que Teufel révèle tout son potentiel - arriver à fournir dans un petit volume un son",
+                    "text_long": "A la recherche d&#39;un poste recevant le DAB+, j&#39;ai choisi ce poste radio en dépit de son prix. Mais son prix est justifié car c&#39;est bien plus qu&#39;un simple poste radio ! L&#39;ère des CD sur la chaine familiale étant révolu, comme beaucoup, j&#39;écoute le geant suédois du streaming ... Donc, ce qui va faire la différence n&#39;est plus la source, mais la sortie : la qualité du son. Et c&#39;est là que Teufel révèle tout son potentiel - arriver à fournir dans un petit volume un son digne d&#39;une enceinte hifi a minima deux fois plus grosse. Si votre séjour est une vraie salle de bal, alors certes il sera insuffisant. Mais dans 20 à 30m², c&#39;est un vrai plaisir pour les oreilles. un son clair, propre et puissant. Sur certains morceaux que je connais bien, j&#39;entends des sons que je n&#39;avais pas perçu même avec des casques de renoms, genre le frottement des doigts sur les cordes de la guitare.Teufel s&#39;est dit qu&#39;on utiliserait leur radio pour tout écouter et du coup, pas de possibilité d&#39;écouter avec un casque les canaux DAB+ par exemple, que du IN, aucune possibilité de OUT - c&#39;est le seul reproche qu&#39;on pourrait faire à cet appareil trés complet, et trés facile de prise ne main (que ce soit en direct sur l&#39;appareil, via la petite télécommande IR, ou via l&#39;appli Teufel Remote) . Mais il est tellement parfait qu&#39;on a envie encore de plus : un écran plus grand par exemple (il y a la place en facade), une personnalisation de l&#39;affichage, ne serait-ce que les couleurs : le rouge (de la marque Teufel) sur fond noir souffre d&#39;un manque de lisibilité manifeste, surtout si l&#39;environnement est lumineux (dommage en plus, l&#39;info en rouge est l&#39;info la plus importante sur l&#39;écran (l&#39;action à faire, le nom de l&#39;artiste, etc).l&#39;objet est valorisant dans votre décoration, tout en restant discret (tout au moins dans sa livrée noire).Poste radio rime souvent avec mobilité - là, oubliez cette possibilité, on est dans le statique, à poser, avec un fil d&#39;alimentation à la patte. On est plus dans la mini-chaine de qualité que dans le poste radio de la cuisine !PS : la livraison est assurée par DHL, ce qui ne veut pas dire express, loin de là - DHL Parcel n&#39;est pas le DHL Express ! Compter une bonne semaine. Quant au message &quot; il ne reste que 9 exemplaires en stock&quot;, c&#39;est un message permanent pour vous inciter à franchir le pas - Teufel n&#39;a pas besoin de cette supercherie tant le produit vous satisfera par sa qualité - je ne peux que le recommander.",
+                    "title": "Bien plus qu&#39;une radio, ses qualités justifient son prix. Faites plaisir à vos oreilles !",
+                    "nw": "Amazon.fr",
+                    "createdAt": "27.10.2025",
+                    "author": "Amazon.fr Kunde",
+                    "original_lang": "fr",
+                    "is_translation": false,
+                    "lang": "fr",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "f33cd93b91f9ad4df124eda78eb701ee",
+                    "stars": 5,
+                    "text": "Beautiful design. Great sound. Easy to set up. No more fiddling around with your phone to get music in the room. This internet radio plays your favorite station all day long. It even has a remote control! You can preset four favorite stations. To save the other favorite stations, you&#39;ll need to create an account first. But this internet radio is definitely recommended!",
+                    "text_long": "Beautiful design. Great sound. Easy to set up. No more fiddling around with your phone to get music in the room. This internet radio plays your favorite station all day long. It even has a remote control! You can preset four favorite stations. To save the other favorite stations, you&#39;ll need to create an account first. But this internet radio is definitely recommended!",
+                    "title": "Definitely recommended!",
+                    "nw": "Amazon.es",
+                    "createdAt": "15.10.2025",
+                    "author": "Amazon.es Kunde",
+                    "original_lang": "en",
+                    "is_translation": false,
+                    "lang": "en",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "80e5f2ef7088d77edbf57a1a12825c3a",
+                    "stars": 5,
+                    "text": "Excellent très bon son",
+                    "text_long": "Excellent très bon son",
+                    "title": "Qualité allemande je recommande",
+                    "nw": "Amazon.fr",
+                    "createdAt": "13.10.2025",
+                    "author": "Amazon.fr Kunde",
+                    "original_lang": "fr",
+                    "is_translation": false,
+                    "lang": "fr",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "dd1003e433edfb717b1e12afe980bb04",
+                    "stars": 5,
+                    "text": "Absolutes Topgerät sehr einfach zu verbinden und bedienen top Sound",
+                    "text_long": "Absolutes Topgerät sehr einfach zu verbinden und bedienen top Sound",
+                    "title": null,
+                    "nw": "Otto.de",
+                    "createdAt": "07.10.2025",
+                    "author": "Otto.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": 2,
+                    "helpful_percent": 1
+                },
+                {
+                    "id": "1c146ece52fe99b75ab37c29b0172fc7",
+                    "stars": 5,
+                    "text": "excellent radio avec une bonne réception et un super son, je suis très satisfait de mon achat",
+                    "text_long": "excellent radio avec une bonne réception et un super son, je suis très satisfait de mon achat",
+                    "title": "radio avec un super son",
+                    "nw": "Amazon.fr",
+                    "createdAt": "28.09.2025",
+                    "author": "Amazon.fr Kunde",
+                    "original_lang": "fr",
+                    "is_translation": false,
+                    "lang": "fr",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "6787d521d8692d10a0a966928c00caf0",
+                    "stars": 5,
+                    "text": "Richtig gutes Radio ! Toller Klang !",
+                    "text_long": "Richtig gutes Radio ! Toller Klang !",
+                    "title": "Guter Klang",
+                    "nw": "Amazon.de",
+                    "createdAt": "02.09.2025",
+                    "author": "Amazon.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "8c2712dd6e30720b675773cc8c6a7fbe",
+                    "stars": 5,
+                    "text": "Installé dans ma cuisine, je suis impressionné par la qualité du son de cette radio, de bons aigus, des bonnes basses, sans jamais grésiller, même à fort volume (je n&#39;ai pas essayé à fond, car c&#39;était déjà très fort).En FM ou DAB ou radio Internet, la réception est bonne, (même pas besoin de déployer l&#39;antenne en DAB!).Le Bluetooth fonctionne, la radio gère parfaitement Spotify. La télécommande est petite mais suffisante.Je ne connaissais pas la marque, mais je serai plus attentifs à",
+                    "text_long": "Installé dans ma cuisine, je suis impressionné par la qualité du son de cette radio, de bons aigus, des bonnes basses, sans jamais grésiller, même à fort volume (je n&#39;ai pas essayé à fond, car c&#39;était déjà très fort).En FM ou DAB ou radio Internet, la réception est bonne, (même pas besoin de déployer l&#39;antenne en DAB!).Le Bluetooth fonctionne, la radio gère parfaitement Spotify. La télécommande est petite mais suffisante.Je ne connaissais pas la marque, mais je serai plus attentifs à leurs produits maintenant.Seul petit bémol, mais qui ne concerne pas la radio elle-même, c&#39;est l&#39;application Android, qui est assez lente. Enregistrer ses radios préférées est franchement rébarbatif, je l&#39;ai fait directement sur la radio.Bref, très satisfait du produit, pourvu que ça dure!",
+                    "title": "Son impressionnant",
+                    "nw": "Amazon.fr",
+                    "createdAt": "18.08.2025",
+                    "author": "Amazon.fr Kunde",
+                    "original_lang": "fr",
+                    "is_translation": false,
+                    "lang": "fr",
+                    "helpful_votes": 1,
+                    "helpful_percent": 1
+                },
+                {
+                    "id": "88549667492a96a06adebc1b74598aa2",
+                    "stars": 5,
+                    "text": "La radio Teufel, tiene un sonido potente y espectacular, lee el USB rÃ¡pido solo que no he logrado que reproduzca Flac, el menÃº de la radio solo estÃ¡ en alemÃ¡n y inglÃ©s.",
+                    "text_long": "La radio Teufel, tiene un sonido potente y espectacular, lee el USB rÃ¡pido solo que no he logrado que reproduzca Flac, el menÃº de la radio solo estÃ¡ en alemÃ¡n y inglÃ©s.",
+                    "title": "Sonido espectacular",
+                    "nw": "Amazon.es",
+                    "createdAt": "15.08.2025",
+                    "author": "Amazon.es Kunde",
+                    "original_lang": "es",
+                    "is_translation": false,
+                    "lang": "es",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "7b27d7ef4d91f4ae3f76ee376b152431",
+                    "stars": 5,
+                    "text": "Klang-Wunder top",
+                    "text_long": "Klang-Wunder top",
+                    "title": "1a",
+                    "nw": "Otto.de",
+                    "createdAt": "28.06.2025",
+                    "author": "Otto.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": 2,
+                    "helpful_percent": 0.5
+                },
+                {
+                    "id": "4b61dc2a54d4586a582b17fbb5d88a52",
+                    "stars": 5,
+                    "text": "KLASSE !! DAS Radio ist der Wahnsinn!!!!!!!Ich empfehle für jede Kunde welche ist noch am überlegen  zu kaufen!!",
+                    "text_long": "KLASSE !! DAS Radio ist der Wahnsinn!!!!!!!Ich empfehle für jede Kunde welche ist noch am überlegen  zu kaufen!!",
+                    "title": null,
+                    "nw": "Otto.de",
+                    "createdAt": "17.05.2025",
+                    "author": "Otto.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "8a31aff28728e492be0b58ecd66252cb",
+                    "stars": 2,
+                    "text": "+ Macht schon was her, sieht besser aus, als auf den Bildern.\n+ Einrichtung WLAN per WPS gut\n+ Sendersuche usw. easy. \n+ Klang eigentlich auch ganz ordentlich, obwohl eine komplette Vorderausrichtung der Lautsprecher sinnvoller wäre, man sitzt schlussendlich nicht über dem Radio. Und mehr räumlichen Klang schafft das nicht wirklich, man hört ja buchstäblich wohin der Sound strömt. Aber das wäre noch iwi zu verkaften.\nWas aber gar nicht geht, vor allem weil wir bereits 2025 schreiben:\n- Die",
+                    "text_long": "+ Macht schon was her, sieht besser aus, als auf den Bildern.\n+ Einrichtung WLAN per WPS gut\n+ Sendersuche usw. easy. \n+ Klang eigentlich auch ganz ordentlich, obwohl eine komplette Vorderausrichtung der Lautsprecher sinnvoller wäre, man sitzt schlussendlich nicht über dem Radio. Und mehr räumlichen Klang schafft das nicht wirklich, man hört ja buchstäblich wohin der Sound strömt. Aber das wäre noch iwi zu verkaften.\nWas aber gar nicht geht, vor allem weil wir bereits 2025 schreiben:\n- Die Erkennung von ID3v1 oder ID3v2 ist sehr sehr einfach, es wird nur der Titel angezeigt und nicht der Interpret. \n- USB-Stricks läuft nur mit FAT32\n- Ab 490 Tracks kackt die Kiste ab (was sind schon 500 mp3s?)\n- 0,0 Kopfhörerunterstützung, nicht mal Klinke - ein absoluter NoGo!! \nEs werden also nur uralte Standards verkauft in einer hübschen Kiste, mehr auch nicht. Selbst mein altes Philips-Radio aus dem Jahr 1994 hatte Klinke! Geht zurück. Schlussendlich bin ich von der Kiste mehr als enttäuscht, da es heutige Basics schlicht nicht unterstützt. Ach ja und FLAC nur 44Khz? Ist nicht euer Ernst!! Dafür als UVP 349€ ist mehr als frech!  Auch für 229€ noch viel zu teuer! Daher Retour.",
+                    "title": "Veraltete Software",
+                    "nw": "Otto.de",
+                    "createdAt": "12.05.2025",
+                    "author": "Otto.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": 12,
+                    "helpful_percent": 0.5
+                },
+                {
+                    "id": "57be17039e648d0f3f2337bc44fde749",
+                    "stars": 5,
+                    "text": "wunderbarer Klang einfach zu bedienen und keine Internetabbrüche\nimmer wieder zu empfehlen.",
+                    "text_long": "wunderbarer Klang einfach zu bedienen und keine Internetabbrüche\nimmer wieder zu empfehlen.",
+                    "title": "Super Radio",
+                    "nw": "Otto.de",
+                    "createdAt": "18.04.2025",
+                    "author": "Otto.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": 2,
+                    "helpful_percent": 1
+                },
+                {
+                    "id": "fe254f45f42b1c64e0fd64465ef04507",
+                    "stars": 5,
+                    "text": "Das Gerät hat wirklich einen sehr guten Klang. Das Einrichten ging zügig und die App funktioniert super, die Umschaltung auf Bluetooth konnte ich in der App nicht finden.",
+                    "text_long": "Das Gerät hat wirklich einen sehr guten Klang. Das Einrichten ging zügig und die App funktioniert super, die Umschaltung auf Bluetooth konnte ich in der App nicht finden.",
+                    "title": "Radio der Spitzenklasse",
+                    "nw": "Amazon.de",
+                    "createdAt": "07.02.2025",
+                    "author": "Amazon.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "d6af2c49ce4331a65aee5dabaa43dfbe",
+                    "stars": 3,
+                    "text": "Très bon rendu sonore , excellent pour les radios internet.\nMais 2 étoiles en moins impossible de connecter un casque audio sans fil, il se connecte en  Bluetooth uniquement en  entrées, pas de Bluetooth en émission, le poste ne trouve pas le casque, dommage pour un appareil de ce prix et Il n&#39;y a pas de prise de sortie audio pour un casque filaire ou autre.",
+                    "text_long": "Très bon rendu sonore , excellent pour les radios internet.\nMais 2 étoiles en moins impossible de connecter un casque audio sans fil, il se connecte en  Bluetooth uniquement en  entrées, pas de Bluetooth en émission, le poste ne trouve pas le casque, dommage pour un appareil de ce prix et Il n&#39;y a pas de prise de sortie audio pour un casque filaire ou autre.",
+                    "title": "Déçu !",
+                    "nw": "Amazon.fr",
+                    "createdAt": "07.02.2025",
+                    "author": "Amazon.fr Kunde",
+                    "original_lang": "fr",
+                    "is_translation": false,
+                    "lang": "fr",
+                    "helpful_votes": 1,
+                    "helpful_percent": 1
+                },
+                {
+                    "id": "c2aaae71ba869287e7facb112138f656",
+                    "stars": 4,
+                    "text": "Guten Tag, das Sixty 3 ist heute angekommen. Die Einrichtung war einfach und der Klang ist sehr gut.Ich habe das Radio in weiß genommen, weil es in der Küche steht. Also, die schwarze Fernbedienung kann ich noch verschmerzen, die ist sooo klein, aber der schwarze Klotz (Netzteil) mit Kabel, unglaublich. Und das bei einem Gerät, dass knapp 300 Euro kostet. Das ist bei Hama alles in weiß und kostet nur die Hälfte.Deshalb gibt es leider nur 4 Sterne.",
+                    "text_long": "Guten Tag, das Sixty 3 ist heute angekommen. Die Einrichtung war einfach und der Klang ist sehr gut.Ich habe das Radio in weiß genommen, weil es in der Küche steht. Also, die schwarze Fernbedienung kann ich noch verschmerzen, die ist sooo klein, aber der schwarze Klotz (Netzteil) mit Kabel, unglaublich. Und das bei einem Gerät, dass knapp 300 Euro kostet. Das ist bei Hama alles in weiß und kostet nur die Hälfte.Deshalb gibt es leider nur 4 Sterne.",
+                    "title": "Gutes Radio",
+                    "nw": "Amazon.de",
+                    "createdAt": "06.02.2025",
+                    "author": "Amazon.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "a01f180384cb88862ed05b82718d147d",
+                    "stars": 5,
+                    "text": "Plutôt facile à mettre en route, néanmoins la langue du menu est en anglais ou en allemand.  Pas de français.",
+                    "text_long": "Plutôt facile à mettre en route, néanmoins la langue du menu est en anglais ou en allemand.  Pas de français.",
+                    "title": "Menu",
+                    "nw": "Amazon.fr",
+                    "createdAt": "05.02.2025",
+                    "author": "Amazon.fr Kunde",
+                    "original_lang": "fr",
+                    "is_translation": false,
+                    "lang": "fr",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "7a54a62cb142a145d4ad8b39cc39e895",
+                    "stars": 5,
+                    "text": "Sehr viel Power für so einen kleinen Kasten. Ordentlich Bass.  Teuflisch gut ,kann ich weiter empfehlen !",
+                    "text_long": "Sehr viel Power für so einen kleinen Kasten. Ordentlich Bass.  Teuflisch gut ,kann ich weiter empfehlen !",
+                    "title": "Teufel",
+                    "nw": "Otto.de",
+                    "createdAt": "06.01.2025",
+                    "author": "Otto.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "265a4e8423119ed720099184e5046be1",
+                    "stars": 5,
+                    "text": "Belles finitions, sons très agréables,Beau produit ! Dommage que la notice n&#39;est pas en Français, mais l&#39;on peut la télécharger- Livraison avec une semaine d&#39;avance !! Que du Bonheur !",
+                    "text_long": "Belles finitions, sons très agréables,Beau produit ! Dommage que la notice n&#39;est pas en Français, mais l&#39;on peut la télécharger- Livraison avec une semaine d&#39;avance !! Que du Bonheur !",
+                    "title": "Rapidité - Qualité -",
+                    "nw": "Amazon.fr",
+                    "createdAt": "22.11.2024",
+                    "author": "Amazon.fr Kunde",
+                    "original_lang": "fr",
+                    "is_translation": false,
+                    "lang": "fr",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "e945ee6cff058deb72549fa27f20f88a",
+                    "stars": 5,
+                    "text": "Seul bÃ©mol il manque un mode d&#39;emploi dans la langue de MoliÃ¨re, car si vous ne maÃ®trisez pas celle de Shakespeare ou de Geothe la mise en route devient ardue. Sinon son clair et puissant pour apprÃ©cier la musique tout genre confondu chez soi.",
+                    "text_long": "Seul bÃ©mol il manque un mode d&#39;emploi dans la langue de MoliÃ¨re, car si vous ne maÃ®trisez pas celle de Shakespeare ou de Geothe la mise en route devient ardue. Sinon son clair et puissant pour apprÃ©cier la musique tout genre confondu chez soi.",
+                    "title": "La qualitÃ© allemande",
+                    "nw": "Amazon.fr",
+                    "createdAt": "30.10.2024",
+                    "author": "Amazon.fr Kunde",
+                    "original_lang": "fr",
+                    "is_translation": false,
+                    "lang": "fr",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "ce42f4f126450334ed87cc3fc92414c1",
+                    "stars": 5,
+                    "text": "Super klang für Größe, und viele Funktionen aber leider brauche ich ein Gerät mit Akku, habe es daher leider zurück gesendet und direkt bei Teufel denn Boomster geordert, ein super Teil mit Akku nur leider ohne Internet Radio",
+                    "text_long": "Super klang für Größe, und viele Funktionen aber leider brauche ich ein Gerät mit Akku, habe es daher leider zurück gesendet und direkt bei Teufel denn Boomster geordert, ein super Teil mit Akku nur leider ohne Internet Radio",
+                    "title": "Super Radio",
+                    "nw": "Otto.de",
+                    "createdAt": "10.10.2024",
+                    "author": "Otto.de Kunde",
+                    "original_lang": "de",
+                    "is_translation": false,
+                    "lang": "de",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "8b7ab538b381ac18b6586fde35027e9b",
+                    "stars": 5,
+                    "text": "Buen sonido y muy bien en general",
+                    "text_long": "Buen sonido y muy bien en general",
+                    "title": "Cumple de sobra",
+                    "nw": "Amazon.es",
+                    "createdAt": "26.09.2024",
+                    "author": "Amazon.es Kunde",
+                    "original_lang": "es",
+                    "is_translation": false,
+                    "lang": "es",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                },
+                {
+                    "id": "7b08042b4e9850e8059d81ca7826ebf3",
+                    "stars": 5,
+                    "text": "Cómo se puede ver en la fotografía (y lo que no se ve) no es que no disponga de sistemas de sonido en mi apartamento, pero la Teufel es mi favorita para acostarme y levantarme, es un aparto de música de alta calidad que te permite escuchar con la mayor nitidez música suave, las noticias por la mañana, una emisora clásica o radio por Internet con miles de emisoras, muchas de ellas sin publicidad. La cogí de color negro al principio y la devolví porque no me gustaba como quedaba en el mueble, y en",
+                    "text_long": "Cómo se puede ver en la fotografía (y lo que no se ve) no es que no disponga de sistemas de sonido en mi apartamento, pero la Teufel es mi favorita para acostarme y levantarme, es un aparto de música de alta calidad que te permite escuchar con la mayor nitidez música suave, las noticias por la mañana, una emisora clásica o radio por Internet con miles de emisoras, muchas de ellas sin publicidad. La cogí de color negro al principio y la devolví porque no me gustaba como quedaba en el mueble, y en la casa fueron súper amables, me la retiraron sin cargo y me sirvieron el modelo en blanco. Para quien guste de un despertador de Alta Fidelidad, este es el suyo. De hecho es que podría perfectamente ser el único equipo de la sala. Viene con mando a distancia, lo que facilita su uso desde la cama, y con una app muy completa desde la que se puede usar cualquier función menos la de poner en hora los dos despertadores de los que dispone que se programan desde el mismo equipo. Son 5 estrellas sin peros.",
+                    "title": "The Big one!!!!",
+                    "nw": "Amazon.es",
+                    "createdAt": "22.09.2024",
+                    "author": "Amazon.es Kunde",
+                    "original_lang": "es",
+                    "is_translation": false,
+                    "lang": "es",
+                    "helpful_votes": false,
+                    "helpful_percent": false
+                }
+            ],
+            "meta": {
+                "num": 50,
+                "until_ts": 1775426400,
+                "until_date": "06.04.2026",
+                "since_ts": 1726956000,
+                "since_date": "22.09.2024"
+            }
+        },
+        "significantReviews": {
+            "star_5": {
+                "reviews": [
+                    {
+                        "id": "47534512cc3daf9c7bc4d8e36938ed0d",
+                        "stars": 5,
+                        "text": "Das Radio hat mehrere Möglichkeiten Sendequellen zu nützen. Das Gerät hat einen satten Klang, was besonders bei Musik sehr angenehm ist. Für mich ist es sehr empfehlenswert.",
+                        "text_long": "Das Radio hat mehrere Möglichkeiten Sendequellen zu nützen. Das Gerät hat einen satten Klang, was besonders bei Musik sehr angenehm ist. Für mich ist es sehr empfehlenswert.",
+                        "title": "Sehr guter Kauf",
+                        "nw": "Amazon.de",
+                        "createdAt": "06.04.2026",
+                        "author": "Amazon.de Kunde",
+                        "original_lang": "de",
+                        "is_translation": false,
+                        "lang": "de",
+                        "helpful_votes": false,
+                        "helpful_percent": false
+                    },
+                    {
+                        "id": "74b7e73a11a4b36daf0e653e0765c284",
+                        "stars": 5,
+                        "text": "Geniale Klangqualität \nGeht nichts über Teufel  TOP",
+                        "text_long": "Geniale Klangqualität \nGeht nichts über Teufel  TOP",
+                        "title": "Top Radio",
+                        "nw": "Otto.de",
+                        "createdAt": "03.04.2026",
+                        "author": "Otto.de Kunde",
+                        "original_lang": "de",
+                        "is_translation": false,
+                        "lang": "de",
+                        "helpful_votes": false,
+                        "helpful_percent": false
+                    },
+                    {
+                        "id": "d392feb51754bcdd9f49b84a66739dd1",
+                        "stars": 5,
+                        "text": "Tolles Teil, guter Sound für die Größe.",
+                        "text_long": "Tolles Teil, guter Sound für die Größe.",
+                        "title": "Heißer Teufel 😈",
+                        "nw": "Amazon.de",
+                        "createdAt": "04.03.2026",
+                        "author": "Amazon.de Kunde",
+                        "original_lang": "de",
+                        "is_translation": false,
+                        "lang": "de",
+                        "helpful_votes": 1,
+                        "helpful_percent": 1
+                    },
+                    {
+                        "id": "d1b9db8df2c3d4d9c32b5ea164b93de1",
+                        "stars": 5,
+                        "text": "Super Internetradio ! Perfekter Sound,  wie gewohnt von Teufel !!! Bei der Installation zwei Versuche , dann alles ok !Lieferung frÃ¼her als erwartet! Klare Kaufempfehlung! FÃ¼r mich â˜†â˜†â˜†â˜†â˜†  !!!",
+                        "text_long": "Super Internetradio ! Perfekter Sound,  wie gewohnt von Teufel !!! Bei der Installation zwei Versuche , dann alles ok !Lieferung frÃ¼her als erwartet! Klare Kaufempfehlung! FÃ¼r mich â˜†â˜†â˜†â˜†â˜†  !!!",
+                        "title": "Kaufempfehlung",
+                        "nw": "Amazon.de",
+                        "createdAt": "22.02.2026",
+                        "author": "Amazon.de Kunde",
+                        "original_lang": "de",
+                        "is_translation": false,
+                        "lang": "de",
+                        "helpful_votes": 3,
+                        "helpful_percent": 1
+                    },
+                    {
+                        "id": "bbb020db19e4d722c017a454f2f669e9",
+                        "stars": 5,
+                        "text": "Great product!!! Amazing build and sound quality!!! Very stylish and slick looking.Only one small thing is I did order the white version but remote control it&#39;s black which I think can be thisame colour.",
+                        "text_long": "Great product!!! Amazing build and sound quality!!! Very stylish and slick looking.Only one small thing is I did order the white version but remote control it&#39;s black which I think can be thisame colour.",
+                        "title": "Amazing sound and much more",
+                        "nw": "Amazon.de",
+                        "createdAt": "19.02.2026",
+                        "author": "Amazon.de Kunde",
+                        "original_lang": "en",
+                        "is_translation": false,
+                        "lang": "en",
+                        "helpful_votes": 4,
+                        "helpful_percent": 1
+                    },
+                    {
+                        "id": "f5a727331ed6ff3bc2d3a2cad6c99672",
+                        "stars": 5,
+                        "text": "Top Sound, Verbindung klappte einwandfrei",
+                        "text_long": "Top Sound, Verbindung klappte einwandfrei",
+                        "title": "Toller Sound",
+                        "nw": "Otto.de",
+                        "createdAt": "02.02.2026",
+                        "author": "Otto.de Kunde",
+                        "original_lang": "de",
+                        "is_translation": false,
+                        "lang": "de",
+                        "helpful_votes": false,
+                        "helpful_percent": false
+                    },
+                    {
+                        "id": "df3fd56da42e6e563184eb32b69756a3",
+                        "stars": 5,
+                        "text": "Es ist einfach ein geiles Gerät. Meine Frau verwendet es ausschließlich über Wlan.Nachdem wir die Teufel Musicstation erworben hatten, haben wir innerhalb von zwei Tagen dieses weitere Gerät bestellt.",
+                        "text_long": "Es ist einfach ein geiles Gerät. Meine Frau verwendet es ausschließlich über Wlan.Nachdem wir die Teufel Musicstation erworben hatten, haben wir innerhalb von zwei Tagen dieses weitere Gerät bestellt.",
+                        "title": "Teufel Musicstation und Internetradio, super Sound!",
+                        "nw": "Amazon.de",
+                        "createdAt": "02.02.2026",
+                        "author": "Amazon.de Kunde",
+                        "original_lang": "de",
+                        "is_translation": false,
+                        "lang": "de",
+                        "helpful_votes": 2,
+                        "helpful_percent": 1
+                    },
+                    {
+                        "id": "3de46b87775abb623a5aa66ade243387",
+                        "stars": 5,
+                        "text": "Marca che non conoscevo ma i prodotti che ho preso sono di ottima qualità",
+                        "text_long": "Marca che non conoscevo ma i prodotti che ho preso sono di ottima qualità",
+                        "title": "Radio DAB",
+                        "nw": "Amazon.it",
+                        "createdAt": "29.01.2026",
+                        "author": "Amazon.it Kunde",
+                        "original_lang": "it",
+                        "is_translation": false,
+                        "lang": "it",
+                        "helpful_votes": false,
+                        "helpful_percent": false
+                    },
+                    {
+                        "id": "a69d8cd3e0a6c904c36b95c212f9019e",
+                        "stars": 5,
+                        "text": "Très satisfait de ma radio internet par le menu est uniquement en allemand et anglais sur la radio.  Heureusement qu&#39;il y a l&#39;application Teufel pour gérer la radio. Le son est vraiment top. Je recommande",
+                        "text_long": "Très satisfait de ma radio internet par le menu est uniquement en allemand et anglais sur la radio.  Heureusement qu&#39;il y a l&#39;application Teufel pour gérer la radio. Le son est vraiment top. Je recommande",
+                        "title": "Son géniale",
+                        "nw": "Amazon.fr",
+                        "createdAt": "24.01.2026",
+                        "author": "Amazon.fr Kunde",
+                        "original_lang": "fr",
+                        "is_translation": false,
+                        "lang": "fr",
+                        "helpful_votes": false,
+                        "helpful_percent": false
+                    },
+                    {
+                        "id": "8116f0cdd2e214bfe7b0486d3f32c064",
+                        "stars": 5,
+                        "text": "Der  Klang und der Sound sind einfach Spitze. TEUFEL halt ... bin begeistert...",
+                        "text_long": "Der  Klang und der Sound sind einfach Spitze. TEUFEL halt ... bin begeistert...",
+                        "title": "Super  Tolles Rsdio",
+                        "nw": "Otto.de",
+                        "createdAt": "19.01.2026",
+                        "author": "Otto.de Kunde",
+                        "original_lang": "de",
+                        "is_translation": false,
+                        "lang": "de",
+                        "helpful_votes": false,
+                        "helpful_percent": false
+                    },
+                    {
+                        "id": "39c0220bcf0becc0b6d2385bb8c99b92",
+                        "stars": 5,
+                        "text": "Funktioniert Super, weiter zu empfehlen.",
+                        "text_long": "Funktioniert Super, weiter zu empfehlen.",
+                        "title": "Super Radio",
+                        "nw": "Otto.de",
+                        "createdAt": "16.01.2026",
+                        "author": "Otto.de Kunde",
+                        "original_lang": "de",
+                        "is_translation": false,
+                        "lang": "de",
+                        "helpful_votes": false,
+                        "helpful_percent": false
+                    },
+                    {
+                        "id": "62cf6ae6cfcf70e8c8c8c26224b74c18",
+                        "stars": 5,
+                        "text": "Radio eccezionale sotto tutti i punti di vista: design, praticità d&#39;uso, ricchezza e razionalità delle funzioni, qualità dell&#39;audio. La consiglio.",
+                        "text_long": "Radio eccezionale sotto tutti i punti di vista: design, praticità d&#39;uso, ricchezza e razionalità delle funzioni, qualità dell&#39;audio. La consiglio.",
+                        "title": "Perfetta!",
+                        "nw": "Amazon.it",
+                        "createdAt": "12.01.2026",
+                        "author": "Amazon.it Kunde",
+                        "original_lang": "it",
+                        "is_translation": false,
+                        "lang": "it",
+                        "helpful_votes": false,
+                        "helpful_percent": false
+                    },
+                    {
+                        "id": "9d09a4dc9c61df8fcfc38c94d72da841",
+                        "stars": 5,
+                        "text": "Hatte mir zuerst von Teufel eine Bluetoothbox zugelegt. Nachdem ich aber merkte, dass ich sie nur als stationÃ¤res GerÃ¤t benutzte habe ich sie problemlos zurÃ¼ck geschickt und mir dafÃ¼r den Teufel Radio 3SIXTY zugelegt. Bin vÃ¶llig begeistert von dem Teil. Super Klang (individuell einstellbarer Sound) und mannigfaltige AbspielmÃ¶glichkeiten. Amazon Music bzw. Spotify interessiert mich weniger. Wichtig ist mir Radio. Als DAB oder als Internetradio. Und natÃ¼rlich Bluetooth. Handy, Tablet und",
+                        "text_long": "Hatte mir zuerst von Teufel eine Bluetoothbox zugelegt. Nachdem ich aber merkte, dass ich sie nur als stationÃ¤res GerÃ¤t benutzte habe ich sie problemlos zurÃ¼ck geschickt und mir dafÃ¼r den Teufel Radio 3SIXTY zugelegt. Bin vÃ¶llig begeistert von dem Teil. Super Klang (individuell einstellbarer Sound) und mannigfaltige AbspielmÃ¶glichkeiten. Amazon Music bzw. Spotify interessiert mich weniger. Wichtig ist mir Radio. Als DAB oder als Internetradio. Und natÃ¼rlich Bluetooth. Handy, Tablet und vor allem mein Bluetooth Plattenspieler wurden sofort erkannt. Top. AuÃŸerdem begeistert es mich, dass die Fernbedienung praktisch Ã¼berflÃ¼ssig ist. Nach der Installation der Teufel Remote App kann man locker alles bequem vom Handy bzw. Tablet bedienen. Besser geht&#39;s nicht.",
+                        "title": "Lob Lob fÃ¼r Teufel",
+                        "nw": "Amazon.de",
+                        "createdAt": "10.01.2026",
+                        "author": "Amazon.de Kunde",
+                        "original_lang": "de",
+                        "is_translation": false,
+                        "lang": "de",
+                        "helpful_votes": 1,
+                        "helpful_percent": 1
+                    },
+                    {
+                        "id": "d547b18f544651314039c34c84ee73a7",
+                        "stars": 5,
+                        "text": "Un&#39;ottima radio che rispecchia le aspettative. Qualità del suono e bel design.",
+                        "text_long": "Un&#39;ottima radio che rispecchia le aspettative. Qualità del suono e bel design.",
+                        "title": "Soddisfatti dell&#39;acquisto",
+                        "nw": "Amazon.it",
+                        "createdAt": "06.01.2026",
+                        "author": "Amazon.it Kunde",
+                        "original_lang": "it",
+                        "is_translation": false,
+                        "lang": "it",
+                        "helpful_votes": false,
+                        "helpful_percent": false
+                    },
+                    {
+                        "id": "74110a0c7c2c6f9c8eb6817e75f42740",
+                        "stars": 5,
+                        "text": "Ein Ã¼belst sensationeller Sound, den der Zwerg da rauskloppt. Kein Klirren und Kratzen und tiefe BÃ¤sse ohne DrÃ¶hnen. Der Preis durchaus gerechtfertigt fÃ¼r die unerwartete Leistung. Die Anzahl der verschiedenen EingÃ¤nge sind ausreichend und die Bedienung kinderleicht durch den Jog dial und das Display. Einfach teuflisch geil.",
+                        "text_long": "Ein Ã¼belst sensationeller Sound, den der Zwerg da rauskloppt. Kein Klirren und Kratzen und tiefe BÃ¤sse ohne DrÃ¶hnen. Der Preis durchaus gerechtfertigt fÃ¼r die unerwartete Leistung. Die Anzahl der verschiedenen EingÃ¤nge sind ausreichend und die Bedienung kinderleicht durch den Jog dial und das Display. Einfach teuflisch geil.",
+                        "title": "Schlanker Body, fetter Sound",
+                        "nw": "Amazon.de",
+                        "createdAt": "06.01.2026",
+                        "author": "Amazon.de Kunde",
+                        "original_lang": "de",
+                        "is_translation": false,
+                        "lang": "de",
+                        "helpful_votes": 5,
+                        "helpful_percent": 1
+                    },
+                    {
+                        "id": "d54291ab61f11297f944c96ab593ac30",
+                        "stars": 5,
+                        "text": "Super Radio. Der Klang - für so ein relativ kleines Radio - als auch die Optik wirklich super. Bin auch schon oft auf das stylische Aussehen angesprochen worden.",
+                        "text_long": "Super Radio. Der Klang - für so ein relativ kleines Radio - als auch die Optik wirklich super. Bin auch schon oft auf das stylische Aussehen angesprochen worden.",
+                        "title": "Qualität und Optik",
+                        "nw": "Amazon.de",
+                        "createdAt": "04.01.2026",
+                        "author": "Amazon.de Kunde",
+                        "original_lang": "de",
+                        "is_translation": false,
+                        "lang": "de",
+                        "helpful_votes": false,
+                        "helpful_percent": false
+                    },
+                    {
+                        "id": "e0648fa412f9a9b757b919c4b6f84132",
+                        "stars": 5,
+                        "text": "Radio de qualité exceptionnel de niveau hi fi vraiment TOP ( Comme toute la gamme Teufel de qualité Allemande )",
+                        "text_long": "Radio de qualité exceptionnel de niveau hi fi vraiment TOP ( Comme toute la gamme Teufel de qualité Allemande )",
+                        "title": "Radio de qualité exceptionnel",
+                        "nw": "Amazon.fr",
+                        "createdAt": "04.01.2026",
+                        "author": "Amazon.fr Kunde",
+                        "original_lang": "fr",
+                        "is_translation": false,
+                        "lang": "fr",
+                        "helpful_votes": false,
+                        "helpful_percent": false
+                    },
+                    {
+                        "id": "32893f7c9246107b8955fab8c5204fb6",
+                        "stars": 5,
+                        "text": "Erste Installation einfach erklärt sich von selbst im Grunde genommen. Alle Programme sind gut zu empfangen auch Internet dab ist vom Standort abhängig jederzeit wieder",
+                        "text_long": "Erste Installation einfach erklärt sich von selbst im Grunde genommen. Alle Programme sind gut zu empfangen auch Internet dab ist vom Standort abhängig jederzeit wieder",
+                        "title": "Top gerät teuflich!!!",
+                        "nw": "Otto.de",
+                        "createdAt": "27.12.2025",
+                        "author": "Otto.de Kunde",
+                        "original_lang": "de",
+                        "is_translation": false,
+                        "lang": "de",
+                        "helpful_votes": false,
+                        "helpful_percent": false
+                    },
+                    {
+                        "id": "4787c25d3dc8c8db042b15bebf8c89cb",
+                        "stars": 5,
+                        "text": "Son incroyable, fonctions complètes. Je suis très content.Dommage qu&#39;après une coupure de courant quand on le déplace par exemple, il ne redémarre pas direct, il faut passer par quelques menus.",
+                        "text_long": "Son incroyable, fonctions complètes. Je suis très content.Dommage qu&#39;après une coupure de courant quand on le déplace par exemple, il ne redémarre pas direct, il faut passer par quelques menus.",
+                        "title": "Excellent son",
+                        "nw": "Amazon.fr",
+                        "createdAt": "13.12.2025",
+                        "author": "Amazon.fr Kunde",
+                        "original_lang": "fr",
+                        "is_translation": false,
+                        "lang": "fr",
+                        "helpful_votes": false,
+                        "helpful_percent": false
+                    },
+                    {
+                        "id": "86fdae6453c4f15d5358c48a5f4bd103",
+                        "stars": 5,
+                        "text": "Ottimo prodotto",
+                        "text_long": "Ottimo prodotto",
+                        "title": "Buon suono",
+                        "nw": "Amazon.it",
+                        "createdAt": "11.12.2025",
+                        "author": "Amazon.it Kunde",
+                        "original_lang": "it",
+                        "is_translation": false,
+                        "lang": "it",
+                        "helpful_votes": false,
+                        "helpful_percent": false
+                    },
+                    {
+                        "id": "dd78864b9175f683de57fff5c4bf3269",
+                        "stars": 5,
+                        "text": "Hatte mich gescheut, soviel geld für ein radio auszugeben, aber es hat sich gelohnt. Toller klang, leichte installation.",
+                        "text_long": "Hatte mich gescheut, soviel geld für ein radio auszugeben, aber es hat sich gelohnt. Toller klang, leichte installation.",
+                        "title": "Super",
+                        "nw": "Otto.de",
+                        "createdAt": "30.11.2025",
+                        "author": "Otto.de Kunde",
+                        "original_lang": "de",
+                        "is_translation": false,
+                        "lang": "de",
+                        "helpful_votes": false,
+                        "helpful_percent": false
+                    },
+                    {
+                        "id": "a825ccfb35e1d20dc8194f63b78b8282",
+                        "stars": 5,
+                        "text": "Ottimo prodotto",
+                        "text_long": "Ottimo prodotto",
+                        "title": "Radio Smart",
+                        "nw": "Amazon.it",
+                        "createdAt": "29.11.2025",
+                        "author": "Amazon.it Kunde",
+                        "original_lang": "it",
+                        "is_translation": false,
+                        "lang": "it",
+                        "helpful_votes": false,
+                        "helpful_percent": false
+                    },
+                    {
+                        "id": "201e7f3c89e061a52ca3d2f57af1d9fd",
+                        "stars": 5,
+                        "text": "Produit conforme à la description, qualité sonore excellente avec des aigus clairs et des basses assez profondes. La réception du dab+ est très bonne, je reçois une centaine de station dab+ .Le bluetooth se connecte facilement. Je conseille vivement.",
+                        "text_long": "Produit conforme à la description, qualité sonore excellente avec des aigus clairs et des basses assez profondes. La réception du dab+ est très bonne, je reçois une centaine de station dab+ .Le bluetooth se connecte facilement. Je conseille vivement.",
+                        "title": "Excellente radio connectée",
+                        "nw": "Amazon.fr",
+                        "createdAt": "25.11.2025",
+                        "author": "Amazon.fr Kunde",
+                        "original_lang": "fr",
+                        "is_translation": false,
+                        "lang": "fr",
+                        "helpful_votes": false,
+                        "helpful_percent": false
+                    },
+                    {
+                        "id": "6788c0dc134b53b1bdfe760f8e1f55f9",
+                        "stars": 5,
+                        "text": "Nach anfänlichen Probemen, die mit dem Support von Teufel vollständig gelöst wurden, läuft das Radio perfekt! Also ich kann es voll empfehlen! ...Obercool! :)",
+                        "text_long": "Nach anfänlichen Probemen, die mit dem Support von Teufel vollständig gelöst wurden, läuft das Radio perfekt! Also ich kann es voll empfehlen! ...Obercool! :)",
+                        "title": "Sound vom anderen Stern",
+                        "nw": "Otto.de",
+                        "createdAt": "18.11.2025",
+                        "author": "Otto.de Kunde",
+                        "original_lang": "de",
+                        "is_translation": false,
+                        "lang": "de",
+                        "helpful_votes": false,
+                        "helpful_percent": false
+                    },
+                    {
+                        "id": "d80487b24189a72b4ddab2f1e48254d3",
+                        "stars": 5,
+                        "text": "Dieses tolle Gerät ist nun seit vier Wochen bei mir in Betrieb und ich kann es nur in höchsten Tönen loben. Einfach und selbsterklärend einzustellen,  einfach zu bedienen und das Ganze mit einem für die Größe wirklich sehr guten Klang verbunden. Bluetooth klappt auch problemlos, sogar über mehrere Räume hinweg. In erster Linie benutze ich eben Bluetooth und DAB Radio und läuft alles in guter Qualität und ohne Probleme. Bass und Höhen kann man gut auf seine persönlichen Vorlieben einstellen.Eine",
+                        "text_long": "Dieses tolle Gerät ist nun seit vier Wochen bei mir in Betrieb und ich kann es nur in höchsten Tönen loben. Einfach und selbsterklärend einzustellen,  einfach zu bedienen und das Ganze mit einem für die Größe wirklich sehr guten Klang verbunden. Bluetooth klappt auch problemlos, sogar über mehrere Räume hinweg. In erster Linie benutze ich eben Bluetooth und DAB Radio und läuft alles in guter Qualität und ohne Probleme. Bass und Höhen kann man gut auf seine persönlichen Vorlieben einstellen.Eine Kleinigkeit habe ich auszusetzen bzw. verstehe ich nicht. Wenn ich mit meinem iPod über Bluetooth Musik abspiele, wird das Cover leider nicht angezeigt wie bei iPad oder Amazon music. Da es allerdings sowieso nur sehr klein angezeigt wird, ist das nicht so wichtig. Der Klang ist und bleibt das Entscheidende. Von daher klare Weiterempfehlung.",
+                        "title": "Einfache Handhabung und toller Klang - was will man mehr?",
+                        "nw": "Amazon.de",
+                        "createdAt": "13.11.2025",
+                        "author": "Amazon.de Kunde",
+                        "original_lang": "de",
+                        "is_translation": false,
+                        "lang": "de",
+                        "helpful_votes": 20,
+                        "helpful_percent": 1
+                    }
+                ],
+                "meta": {
+                    "num": 25,
+                    "until_ts": 1775426400,
+                    "until_date": "06.04.2026",
+                    "since_ts": 1762988400,
+                    "since_date": "13.11.2025"
+                }
+            },
+            "star_3": {
+                "reviews": [
+                    {
+                        "id": "749bf70f9ed1070ad50516f20259090e",
+                        "stars": 3,
+                        "text": "Also ich bin mehr als überrascht von diesen überwiegend positiven Bewertungen hier. Die App hat ohne Ende Fehler und ist sehr langsam. Das Radio selbst könnte auch schneller sein für den Preis und hat auch Fehler im Menü. Updates Fehlanzeige? Aber vor allem der Klang. Was für ein Armutszeugnis für die Marke! Mir war Internetradio wichtig. Na ja, das funktioniert ja. Und es steht in der Küche. Dafür reicht der Klang. Aber das hätte ich für weniger als die Hälfte haben können. Bin nur zu faul zum",
+                        "text_long": "Also ich bin mehr als überrascht von diesen überwiegend positiven Bewertungen hier. Die App hat ohne Ende Fehler und ist sehr langsam. Das Radio selbst könnte auch schneller sein für den Preis und hat auch Fehler im Menü. Updates Fehlanzeige? Aber vor allem der Klang. Was für ein Armutszeugnis für die Marke! Mir war Internetradio wichtig. Na ja, das funktioniert ja. Und es steht in der Küche. Dafür reicht der Klang. Aber das hätte ich für weniger als die Hälfte haben können. Bin nur zu faul zum zurückschicken. Leute, nehmt ein Medion. Besser ist das hier auch nicht.",
+                        "title": "Oje",
+                        "nw": "Otto.de",
+                        "createdAt": "16.12.2025",
+                        "author": "Otto.de Kunde",
+                        "original_lang": "de",
+                        "is_translation": false,
+                        "lang": "de",
+                        "helpful_votes": 5,
+                        "helpful_percent": 0.6
+                    },
+                    {
+                        "id": "d6af2c49ce4331a65aee5dabaa43dfbe",
+                        "stars": 3,
+                        "text": "Très bon rendu sonore , excellent pour les radios internet.\nMais 2 étoiles en moins impossible de connecter un casque audio sans fil, il se connecte en  Bluetooth uniquement en  entrées, pas de Bluetooth en émission, le poste ne trouve pas le casque, dommage pour un appareil de ce prix et Il n&#39;y a pas de prise de sortie audio pour un casque filaire ou autre.",
+                        "text_long": "Très bon rendu sonore , excellent pour les radios internet.\nMais 2 étoiles en moins impossible de connecter un casque audio sans fil, il se connecte en  Bluetooth uniquement en  entrées, pas de Bluetooth en émission, le poste ne trouve pas le casque, dommage pour un appareil de ce prix et Il n&#39;y a pas de prise de sortie audio pour un casque filaire ou autre.",
+                        "title": "Déçu !",
+                        "nw": "Amazon.fr",
+                        "createdAt": "07.02.2025",
+                        "author": "Amazon.fr Kunde",
+                        "original_lang": "fr",
+                        "is_translation": false,
+                        "lang": "fr",
+                        "helpful_votes": 1,
+                        "helpful_percent": 1
+                    }
+                ],
+                "meta": {
+                    "num": 2,
+                    "until_ts": 1765839600,
+                    "until_date": "16.12.2025",
+                    "since_ts": 1738882800,
+                    "since_date": "07.02.2025"
+                }
+            },
+            "star_4": {
+                "reviews": [
+                    {
+                        "id": "570352ee07f9430c813d2a2437a9892d",
+                        "stars": 4,
+                        "text": "Excellent",
+                        "text_long": "Excellent",
+                        "title": "Bon son",
+                        "nw": "Amazon.fr",
+                        "createdAt": "01.04.2026",
+                        "author": "Amazon.fr Kunde",
+                        "original_lang": "en",
+                        "is_translation": false,
+                        "lang": "en",
+                        "helpful_votes": false,
+                        "helpful_percent": false
+                    },
+                    {
+                        "id": "b573c0feaf5d02feb7cc3704e3c79346",
+                        "stars": 4,
+                        "text": "Das Teufel Radio macht was es soll, guter Empfang, in unserer Wohnung bei UKW und DAB+, ohne die Antenne auszuziehen. Der Klang ist für so ein kleines Gerät wirklich sehr gut. Nur 4 Sterne aus mehreren Gründen:- Es gibt nur 4 Stationstasten, es können aber 30 Sender gespeichert werden. Also muss immer das Smartphone in die Hand genommen werden, um Sender ab Speicherplatz 5 zu spielen.- Beworben wird es mit Sprachsteuerung über Google Nest Geräte, was im Prinzip funktioniert. Es ist jedoch",
+                        "text_long": "Das Teufel Radio macht was es soll, guter Empfang, in unserer Wohnung bei UKW und DAB+, ohne die Antenne auszuziehen. Der Klang ist für so ein kleines Gerät wirklich sehr gut. Nur 4 Sterne aus mehreren Gründen:- Es gibt nur 4 Stationstasten, es können aber 30 Sender gespeichert werden. Also muss immer das Smartphone in die Hand genommen werden, um Sender ab Speicherplatz 5 zu spielen.- Beworben wird es mit Sprachsteuerung über Google Nest Geräte, was im Prinzip funktioniert. Es ist jedoch umständlich, da es sich nicht um einen eingebauten Chromcast handelt. Um die Sprachsteuerung zu erreichen also erst Bluetooth am Google Nest Gerät aktivieren, am Radio auf den Bluetooth Eingang umschalten, dann geht es. Ist jedoch sehr umständlich. Also habe ich eine alten Chromcast Audio an den AUX-Eingang abgeschlossen , muss nur einmal am Radio den Eingang umschalten und kann von allen Geräten auf das Radio streamen.- In der App sind Links enthalten die ins Leere führen, die Seiten gibt es scheinbar nicht mehrZusammenfassend bin ich zufrieden, mit den kleinen erwähnten Abstrichen",
+                        "title": "Insgesamt zufrieden",
+                        "nw": "Amazon.de",
+                        "createdAt": "28.11.2025",
+                        "author": "Amazon.de Kunde",
+                        "original_lang": "de",
+                        "is_translation": false,
+                        "lang": "de",
+                        "helpful_votes": 17,
+                        "helpful_percent": 1
+                    },
+                    {
+                        "id": "c2aaae71ba869287e7facb112138f656",
+                        "stars": 4,
+                        "text": "Guten Tag, das Sixty 3 ist heute angekommen. Die Einrichtung war einfach und der Klang ist sehr gut.Ich habe das Radio in weiß genommen, weil es in der Küche steht. Also, die schwarze Fernbedienung kann ich noch verschmerzen, die ist sooo klein, aber der schwarze Klotz (Netzteil) mit Kabel, unglaublich. Und das bei einem Gerät, dass knapp 300 Euro kostet. Das ist bei Hama alles in weiß und kostet nur die Hälfte.Deshalb gibt es leider nur 4 Sterne.",
+                        "text_long": "Guten Tag, das Sixty 3 ist heute angekommen. Die Einrichtung war einfach und der Klang ist sehr gut.Ich habe das Radio in weiß genommen, weil es in der Küche steht. Also, die schwarze Fernbedienung kann ich noch verschmerzen, die ist sooo klein, aber der schwarze Klotz (Netzteil) mit Kabel, unglaublich. Und das bei einem Gerät, dass knapp 300 Euro kostet. Das ist bei Hama alles in weiß und kostet nur die Hälfte.Deshalb gibt es leider nur 4 Sterne.",
+                        "title": "Gutes Radio",
+                        "nw": "Amazon.de",
+                        "createdAt": "06.02.2025",
+                        "author": "Amazon.de Kunde",
+                        "original_lang": "de",
+                        "is_translation": false,
+                        "lang": "de",
+                        "helpful_votes": false,
+                        "helpful_percent": false
+                    },
+                    {
+                        "id": "4a3d6b4b093d903c787986487984ef09",
+                        "stars": 4,
+                        "text": "Voor €254 een redelijke internet radio. Dab ontvangt is dramatisch. Ontvangt geen enkele zender. Mogelijk wordt dat veroorzaakt door mijn zonnepanelen. Ook mijn andere radio van Dabman ontvangt niets. Een usb stick met 120 cd&#39;s werd niet goed gelezen. Omdat ik van diverse artiesten meerdere cd&#39;s heb , bleek de oplossing een subdirectory maken en daaronder de verschillende cd&#39;s plaatsen. Zolang het maar niet meer zijn dan 99 directorys .De speler leest alleen Mp3 files. Daar moet je",
+                        "text_long": "Voor €254 een redelijke internet radio. Dab ontvangt is dramatisch. Ontvangt geen enkele zender. Mogelijk wordt dat veroorzaakt door mijn zonnepanelen. Ook mijn andere radio van Dabman ontvangt niets. Een usb stick met 120 cd&#39;s werd niet goed gelezen. Omdat ik van diverse artiesten meerdere cd&#39;s heb , bleek de oplossing een subdirectory maken en daaronder de verschillende cd&#39;s plaatsen. Zolang het maar niet meer zijn dan 99 directorys .De speler leest alleen Mp3 files. Daar moet je dus wel rekening mee houden met het rippen van de cd&#39;s. Ondanks dat dit in de You tube filmpjes wel wordt vermeld, is het niet mogelijk om te verbinden met een thuis netwerk om muziek af te spelen. De ontvangst van de internet radio is zeer goed. Het programmeren van de favorieten is erg omslachtig en lukte mij alleen door de app samen met de knoppen op de afstandsbediening te gebruiken. De handleiding is erg summier. Ik wilde de aux ingang gebruiken om op de Teufel het geluid van mijn cd speler te beluisteren. Helaas klonk dit zo slecht dat ik mijn Soundbar daar maar voor gebruik. Bluetooth ontvangst is goed. Het geluid is goed. Als het volume niet te hoog wordt gezet. Dan gaat de bas speaker trillen. Dat het geluid ruimtelijk klink door de plaatsing van de speakers aan de bovenzijde. Kan ik niet bevestigen. Dat lijkt me meer een verkoop praatje.Samengevat: mooi uiterlijk , goed geluid ,maar erg duur voor de beperkte mogelijkheden. Correctie: nog niet eerder getest. Het geluid van de tv via bluetooth afgespeeld op de Teufel klinkt inderdaad ruimtelijk en is boven verwachting zeer goed te noemen.",
+                        "title": "Mooi uiterlijk , goed geluid wel erg duur.",
+                        "nw": "Amazon.nl",
+                        "createdAt": "17.01.2024",
+                        "author": "Amazon.nl Kunde",
+                        "original_lang": "nl",
+                        "is_translation": false,
+                        "lang": "nl",
+                        "helpful_votes": false,
+                        "helpful_percent": false
+                    }
+                ],
+                "meta": {
+                    "num": 4,
+                    "until_ts": 1774994400,
+                    "until_date": "01.04.2026",
+                    "since_ts": 1705446000,
+                    "since_date": "17.01.2024"
+                }
+            },
+            "star_2": {
+                "reviews": [
+                    {
+                        "id": "8a31aff28728e492be0b58ecd66252cb",
+                        "stars": 2,
+                        "text": "+ Macht schon was her, sieht besser aus, als auf den Bildern.\n+ Einrichtung WLAN per WPS gut\n+ Sendersuche usw. easy. \n+ Klang eigentlich auch ganz ordentlich, obwohl eine komplette Vorderausrichtung der Lautsprecher sinnvoller wäre, man sitzt schlussendlich nicht über dem Radio. Und mehr räumlichen Klang schafft das nicht wirklich, man hört ja buchstäblich wohin der Sound strömt. Aber das wäre noch iwi zu verkaften.\nWas aber gar nicht geht, vor allem weil wir bereits 2025 schreiben:\n- Die",
+                        "text_long": "+ Macht schon was her, sieht besser aus, als auf den Bildern.\n+ Einrichtung WLAN per WPS gut\n+ Sendersuche usw. easy. \n+ Klang eigentlich auch ganz ordentlich, obwohl eine komplette Vorderausrichtung der Lautsprecher sinnvoller wäre, man sitzt schlussendlich nicht über dem Radio. Und mehr räumlichen Klang schafft das nicht wirklich, man hört ja buchstäblich wohin der Sound strömt. Aber das wäre noch iwi zu verkaften.\nWas aber gar nicht geht, vor allem weil wir bereits 2025 schreiben:\n- Die Erkennung von ID3v1 oder ID3v2 ist sehr sehr einfach, es wird nur der Titel angezeigt und nicht der Interpret. \n- USB-Stricks läuft nur mit FAT32\n- Ab 490 Tracks kackt die Kiste ab (was sind schon 500 mp3s?)\n- 0,0 Kopfhörerunterstützung, nicht mal Klinke - ein absoluter NoGo!! \nEs werden also nur uralte Standards verkauft in einer hübschen Kiste, mehr auch nicht. Selbst mein altes Philips-Radio aus dem Jahr 1994 hatte Klinke! Geht zurück. Schlussendlich bin ich von der Kiste mehr als enttäuscht, da es heutige Basics schlicht nicht unterstützt. Ach ja und FLAC nur 44Khz? Ist nicht euer Ernst!! Dafür als UVP 349€ ist mehr als frech!  Auch für 229€ noch viel zu teuer! Daher Retour.",
+                        "title": "Veraltete Software",
+                        "nw": "Otto.de",
+                        "createdAt": "12.05.2025",
+                        "author": "Otto.de Kunde",
+                        "original_lang": "de",
+                        "is_translation": false,
+                        "lang": "de",
+                        "helpful_votes": 12,
+                        "helpful_percent": 0.5
+                    }
+                ],
+                "meta": {
+                    "num": 1,
+                    "until_ts": 1747000800,
+                    "until_date": "12.05.2025",
+                    "since_ts": 1747000800,
+                    "since_date": "12.05.2025"
+                }
+            }
+        }
+    },
+    "statusCode": 1,
+    "lastUpdate": 1776110066,
+    "lastUpdate_str": "13.04.2026",
+    "lang": "de"
+}

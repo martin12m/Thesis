@@ -1,0 +1,221 @@
+[
+  {
+    "id": "policy-return-basic",
+    "category": "structured_business_context",
+    "user_turn": "What is your return policy?",
+    "expected_answer_contains": [
+      "30 days"
+    ],
+    "expected_evidence_ids": [
+      "policy:1"
+    ],
+    "required_context_terms": [
+      "return"
+    ],
+    "expected_tool_names": [
+      "get_return_policy_info"
+    ]
+  },
+  {
+    "id": "catalog-product-lookup",
+    "category": "catalog_context",
+    "user_turn": "Tell me about product 2.",
+    "expected_answer_contains": [
+      "FeatherFly Pro"
+    ],
+    "expected_tool_names": [
+      "get_product_by_id"
+    ]
+  },
+  {
+    "id": "catalog-compare",
+    "category": "catalog_context",
+    "user_turn": "Compare product 1 and product 3.",
+    "expected_answer_contains": [
+      "RoadSprint 3",
+      "TrailCore Max"
+    ],
+    "expected_tool_names": [
+      "compare_products"
+    ]
+  },
+  {
+    "id": "catalog-lightest-under-budget",
+    "category": "structured_business_context",
+    "user_turn": "What is the lightest running shoe under 100 euros?",
+    "expected_answer_contains": [
+      "FeatherFly Pro"
+    ],
+    "required_context_terms": [
+      "210"
+    ],
+    "expected_tool_names": [
+      "get_lightest_product_under_price"
+    ]
+  },
+  {
+    "id": "document-explain-lightweight",
+    "category": "document_context",
+    "user_turn": "Why might a lightweight design matter for race day running shoes?",
+    "expected_evidence_ids": [
+      "product:2"
+    ],
+    "required_context_terms": [
+      "lightweight"
+    ]
+  },
+  {
+    "id": "session-topic-carryover",
+    "category": "session_context",
+    "user_turn": "And how many days do I have to return it?",
+    "session_context": {
+      "turn_history": [
+        "What is your return policy?"
+      ],
+      "active_topic": "policy",
+      "session_summary": "What is your return policy?"
+    },
+    "expected_answer_contains": [
+      "30"
+    ],
+    "required_context_terms": [
+      "return"
+    ]
+  },
+  {
+    "id": "catalog-reviews",
+    "category": "catalog_context",
+    "user_turn": "What do the reviews say about product 2?",
+    "expected_tool_names": [
+      "get_product_reviews"
+    ]
+  },
+  {
+    "id": "policy-shipping-fallback",
+    "category": "structured_business_context",
+    "user_turn": "What is your shipping policy?",
+    "expected_tool_names": [
+      "get_shipping_policy_info"
+    ]
+  },
+  {
+    "id": "sim-330a4c18-1",
+    "category": "structured_business_context",
+    "user_turn": "What is the return window for electronics items?"
+  },
+  {
+    "id": "sim-330a4c18-2",
+    "category": "catalog_context",
+    "user_turn": "Show me the top-rated running shoes under $100."
+  },
+  {
+    "id": "sim-330a4c18-3",
+    "category": "document_context",
+    "user_turn": "Why is the memory foam mattress heavier than the innerspring one?"
+  },
+  {
+    "id": "sim-330a4c18-4",
+    "category": "session_context",
+    "user_turn": "Is it available in blue?",
+    "session_context": {
+      "turn_history": [
+        "I'm looking at the Model X450 Jacket."
+      ]
+    }
+  },
+  {
+    "id": "sim-330a4c18-5",
+    "category": "structured_business_context",
+    "user_turn": "Do you offer free shipping for orders over $50?"
+  },
+  {
+    "id": "sim-330a4c18-6",
+    "category": "structured_business_context",
+    "user_turn": "What is the return window for electronics if I haven't opened the box yet?"
+  },
+  {
+    "id": "sim-330a4c18-7",
+    "category": "catalog_context",
+    "user_turn": "Show me the top 3 rated wireless headphones under $100."
+  },
+  {
+    "id": "sim-330a4c18-8",
+    "category": "document_context",
+    "user_turn": "Why is the shipping cost higher for items over 50 pounds compared to standard parcels?"
+  },
+  {
+    "id": "sim-330a4c18-9",
+    "category": "session_context",
+    "user_turn": "Does it come in black?",
+    "session_context": {
+      "turn_history": [
+        "I'm looking at the Sony WH-1000XM5 headphones."
+      ]
+    }
+  },
+  {
+    "id": "sim-330a4c18-10",
+    "category": "structured_business_context",
+    "user_turn": "Find me all laptops in the 'Business' category that weigh less than 2.5 kg and cost under $800."
+  },
+  {
+    "id": "sim-330a4c18-11",
+    "category": "structured_business_context",
+    "user_turn": "What is the return policy for items that weigh more than 50 pounds?"
+  },
+  {
+    "id": "sim-330a4c18-12",
+    "category": "catalog_context",
+    "user_turn": "Show me the top-rated laptops under $1000."
+  },
+  {
+    "id": "sim-330a4c18-13",
+    "category": "document_context",
+    "user_turn": "Why is the Sony WH-1000XM5 considered better than the Bose QuietComfort 45 for noise cancellation?"
+  },
+  {
+    "id": "sim-330a4c18-14",
+    "category": "session_context",
+    "user_turn": "How much does it cost to ship this to New York?",
+    "session_context": {
+      "turn_history": [
+        "I'm looking at the 65-inch Samsung QLED TV."
+      ]
+    }
+  },
+  {
+    "id": "sim-330a4c18-15",
+    "category": "structured_business_context",
+    "user_turn": "Does the warranty cover accidental damage for electronics purchased in the last 30 days?"
+  },
+  {
+    "id": "sim-330a4c18-16",
+    "category": "structured_business_context",
+    "user_turn": "What is the return window for electronics if I haven't opened the box yet?"
+  },
+  {
+    "id": "sim-330a4c18-17",
+    "category": "catalog_context",
+    "user_turn": "Show me the top 3 rated wireless headphones under $100."
+  },
+  {
+    "id": "sim-330a4c18-18",
+    "category": "document_context",
+    "user_turn": "Why is the shipping cost so high for items over 50 pounds compared to lighter items?"
+  },
+  {
+    "id": "sim-330a4c18-19",
+    "category": "session_context",
+    "user_turn": "Does it come in blue?",
+    "session_context": {
+      "turn_history": [
+        "I'm looking at the Model X Running Shoes."
+      ]
+    }
+  },
+  {
+    "id": "sim-330a4c18-20",
+    "category": "structured_business_context",
+    "user_turn": "Find me a laptop that weighs less than 3kg and costs under $800."
+  }
+]

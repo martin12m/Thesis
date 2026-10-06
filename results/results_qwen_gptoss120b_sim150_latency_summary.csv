@@ -1,0 +1,7 @@
+model,variant,count,p50_ms,p95_ms
+qwen,retrieval,158,407.969,1023.695
+qwen,tool_first,158,323.688,919.881
+qwen,hybrid,158,438.582,1208.313
+gptoss120b,retrieval,158,689.705,4729.831
+gptoss120b,tool_first,158,683.091,5944.247
+gptoss120b,hybrid,158,698.824,5898.164

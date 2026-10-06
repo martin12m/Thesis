@@ -1,0 +1,18 @@
+[
+  {
+    "sku": "SKU-100",
+    "name": "Starter Plan",
+    "description": "Entry-level subscription for small teams.",
+    "price_cents": 1900,
+    "is_active": true,
+    "policy_codes": ["RETURNS", "PRIVACY"]
+  },
+  {
+    "sku": "SKU-200",
+    "name": "Growth Plan",
+    "description": "Expanded subscription with analytics features.",
+    "price_cents": 4900,
+    "is_active": true,
+    "policy_codes": ["PRIVACY"]
+  }
+]

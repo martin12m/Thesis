@@ -1,0 +1,122 @@
+[
+  {
+    "sku": "HP-SONY-WH1000XM5",
+    "price_cents": 34900,
+    "policy_codes": [],
+    "result": {
+      "infos": {
+        "title": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
+        "desc": "Over-ear wireless headphones with industry-leading noise cancellation, 30-hour battery life, and multipoint Bluetooth connection.",
+        "brand": "Sony",
+        "cats": ["Electronics", "Headphones"],
+        "avgPrice": 349.0,
+        "avgPrice_str": "349,00"
+      },
+      "score": {
+        "ratingsTotal": 1284,
+        "ratingsTotal_str": "1284",
+        "positiveRatio": 0.93,
+        "positiveRatio_str": "93,00",
+        "stars": 4.6,
+        "stars_str": "4,6",
+        "grade": "Sehr gut",
+        "starsDiscrete": 4.5,
+        "starsDiscrete_str": "4,5"
+      },
+      "reviews": {
+        "reviews": [
+          {
+            "id": "sony-rev-001",
+            "stars": 5,
+            "text": "Best noise cancellation I've tried, blocks out airplane engine noise almost completely.",
+            "text_long": "Best noise cancellation I've tried, blocks out airplane engine noise almost completely.",
+            "title": "Excellent for frequent flyers",
+            "nw": "Amazon.de",
+            "createdAt": "14.02.2026",
+            "author": "Amazon.de Kunde",
+            "lang": "en",
+            "helpful_votes": 52,
+            "helpful_percent": 0.94
+          },
+          {
+            "id": "sony-rev-002",
+            "stars": 4,
+            "text": "Sound quality is great and noise cancellation is a step above the Bose QuietComfort 45, but the touch controls on the ear cup are overly sensitive.",
+            "text_long": "Sound quality is great and noise cancellation is a step above the Bose QuietComfort 45, but the touch controls on the ear cup are overly sensitive.",
+            "title": "Great sound, fiddly touch controls",
+            "nw": "Otto.de",
+            "createdAt": "03.03.2026",
+            "author": "Otto.de Kunde",
+            "lang": "en",
+            "helpful_votes": 19,
+            "helpful_percent": 0.79
+          }
+        ]
+      },
+      "metaInfos": {
+        "lastUpdate_str": "20.08.2026",
+        "profileUrl": "https://www.produktbewertungen.org/sony-wh-1000xm5"
+      }
+    }
+  },
+  {
+    "sku": "HP-BOSE-QC45",
+    "price_cents": 32900,
+    "policy_codes": [],
+    "result": {
+      "infos": {
+        "title": "Bose QuietComfort 45 Wireless Headphones",
+        "desc": "Over-ear wireless headphones balancing noise cancellation with an audio-transparency aware mode and 24-hour battery life.",
+        "brand": "Bose",
+        "cats": ["Electronics", "Headphones"],
+        "avgPrice": 329.0,
+        "avgPrice_str": "329,00"
+      },
+      "score": {
+        "ratingsTotal": 967,
+        "ratingsTotal_str": "967",
+        "positiveRatio": 0.9,
+        "positiveRatio_str": "90,00",
+        "stars": 4.4,
+        "stars_str": "4,4",
+        "grade": "Gut",
+        "starsDiscrete": 4.5,
+        "starsDiscrete_str": "4,5"
+      },
+      "reviews": {
+        "reviews": [
+          {
+            "id": "bose-rev-001",
+            "stars": 5,
+            "text": "Lighter and more comfortable for long wear than the Sony WH-1000XM5, though its noise cancellation is a notch behind.",
+            "text_long": "Lighter and more comfortable for long wear than the Sony WH-1000XM5, though its noise cancellation is a notch behind.",
+            "title": "Comfort over raw ANC strength",
+            "nw": "Mediamarkt.de",
+            "createdAt": "22.02.2026",
+            "author": "Mediamarkt.de Kunde",
+            "lang": "en",
+            "helpful_votes": 27,
+            "helpful_percent": 0.86
+          },
+          {
+            "id": "bose-rev-002",
+            "stars": 4,
+            "text": "Aware mode for hearing traffic while walking is genuinely useful, app could be more stable though.",
+            "text_long": "Aware mode for hearing traffic while walking is genuinely useful, app could be more stable though.",
+            "title": "Great transparency mode",
+            "nw": "Saturn.de",
+            "createdAt": "01.03.2026",
+            "author": "Saturn.de Kunde",
+            "lang": "en",
+            "helpful_votes": 13,
+            "helpful_percent": 0.75
+          }
+        ]
+      },
+      "metaInfos": {
+        "lastUpdate_str": "19.08.2026",
+        "profileUrl": "https://www.produktbewertungen.org/bose-qc45"
+      }
+    }
+  }
+]

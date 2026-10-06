@@ -1,0 +1,122 @@
+[
+  {
+    "sku": "LAP-DELL-XPS13",
+    "price_cents": 119900,
+    "policy_codes": [],
+    "result": {
+      "infos": {
+        "title": "Dell XPS 13 (2026) Business Laptop",
+        "desc": "13-inch business ultrabook, 1.2kg, 16GB RAM, 512GB SSD, aimed at road-warrior professionals who need a light, all-day-battery laptop.",
+        "brand": "Dell",
+        "cats": ["Electronics", "Laptops"],
+        "avgPrice": 1199.0,
+        "avgPrice_str": "1.199,00"
+      },
+      "score": {
+        "ratingsTotal": 588,
+        "ratingsTotal_str": "588",
+        "positiveRatio": 0.89,
+        "positiveRatio_str": "89,00",
+        "stars": 4.5,
+        "stars_str": "4,5",
+        "grade": "Sehr gut",
+        "starsDiscrete": 4.5,
+        "starsDiscrete_str": "4,5"
+      },
+      "reviews": {
+        "reviews": [
+          {
+            "id": "dell-rev-001",
+            "stars": 5,
+            "text": "At 1.2kg it barely adds any weight to my bag, and the battery genuinely lasts a full workday.",
+            "text_long": "At 1.2kg it barely adds any weight to my bag, and the battery genuinely lasts a full workday.",
+            "title": "Great for business travel",
+            "nw": "Amazon.de",
+            "createdAt": "05.04.2026",
+            "author": "Amazon.de Kunde",
+            "lang": "en",
+            "helpful_votes": 31,
+            "helpful_percent": 0.88
+          },
+          {
+            "id": "dell-rev-002",
+            "stars": 4,
+            "text": "Webcam is still mediocre for video calls but the screen and keyboard are excellent.",
+            "text_long": "Webcam is still mediocre for video calls but the screen and keyboard are excellent.",
+            "title": "Great screen, weak webcam",
+            "nw": "Otto.de",
+            "createdAt": "18.04.2026",
+            "author": "Otto.de Kunde",
+            "lang": "en",
+            "helpful_votes": 12,
+            "helpful_percent": 0.7
+          }
+        ]
+      },
+      "metaInfos": {
+        "lastUpdate_str": "21.08.2026",
+        "profileUrl": "https://www.produktbewertungen.org/dell-xps-13-2026"
+      }
+    }
+  },
+  {
+    "sku": "LAP-APPLE-MBA15",
+    "price_cents": 149900,
+    "policy_codes": [],
+    "result": {
+      "infos": {
+        "title": "Apple MacBook Air 15\" (M4)",
+        "desc": "15-inch ultrabook, 1.5kg, fanless design, aimed at professionals wanting a larger screen without the weight of a Pro model.",
+        "brand": "Apple",
+        "cats": ["Electronics", "Laptops"],
+        "avgPrice": 1499.0,
+        "avgPrice_str": "1.499,00"
+      },
+      "score": {
+        "ratingsTotal": 742,
+        "ratingsTotal_str": "742",
+        "positiveRatio": 0.94,
+        "positiveRatio_str": "94,00",
+        "stars": 4.7,
+        "stars_str": "4,7",
+        "grade": "Sehr gut",
+        "starsDiscrete": 4.5,
+        "starsDiscrete_str": "4,5"
+      },
+      "reviews": {
+        "reviews": [
+          {
+            "id": "mba-rev-001",
+            "stars": 5,
+            "text": "Silent under any workload since it's fanless, and at 1.5kg it's still easy to carry around all day.",
+            "text_long": "Silent under any workload since it's fanless, and at 1.5kg it's still easy to carry around all day.",
+            "title": "Perfect size and weight balance",
+            "nw": "Amazon.de",
+            "createdAt": "10.05.2026",
+            "author": "Amazon.de Kunde",
+            "lang": "en",
+            "helpful_votes": 44,
+            "helpful_percent": 0.92
+          },
+          {
+            "id": "mba-rev-002",
+            "stars": 4,
+            "text": "Only two ports is limiting for business use, need a dongle for most meeting rooms.",
+            "text_long": "Only two ports is limiting for business use, need a dongle for most meeting rooms.",
+            "title": "Great machine, too few ports",
+            "nw": "Mediamarkt.de",
+            "createdAt": "02.05.2026",
+            "author": "Mediamarkt.de Kunde",
+            "lang": "en",
+            "helpful_votes": 9,
+            "helpful_percent": 0.68
+          }
+        ]
+      },
+      "metaInfos": {
+        "lastUpdate_str": "22.08.2026",
+        "profileUrl": "https://www.produktbewertungen.org/macbook-air-15-m4"
+      }
+    }
+  }
+]

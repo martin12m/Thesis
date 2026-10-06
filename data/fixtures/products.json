@@ -1,0 +1,38 @@
+[
+  {
+    "sku": "RUN-001",
+    "name": "RoadSprint 3",
+    "description": "Balanced daily running shoe for road training.",
+    "price_cents": 8900,
+    "is_active": true,
+    "category": "running shoe",
+    "weight_g": 230,
+    "material": "mesh",
+    "color": "blue",
+    "policy_codes": ["RETURNS"]
+  },
+  {
+    "sku": "RUN-002",
+    "name": "FeatherFly Pro",
+    "description": "Lightweight running shoe for fast sessions and races.",
+    "price_cents": 9500,
+    "is_active": true,
+    "category": "running shoe",
+    "weight_g": 210,
+    "material": "engineered mesh",
+    "color": "white",
+    "policy_codes": ["RETURNS"]
+  },
+  {
+    "sku": "RUN-003",
+    "name": "TrailCore Max",
+    "description": "Cushioned running shoe with extra support for long runs.",
+    "price_cents": 10900,
+    "is_active": true,
+    "category": "running shoe",
+    "weight_g": 205,
+    "material": "knit",
+    "color": "black",
+    "policy_codes": ["RETURNS"]
+  }
+]

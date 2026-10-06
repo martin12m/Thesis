@@ -1,0 +1,1733 @@
+{
+  "model": "qwen",
+  "transcription_samples": [
+    {
+      "scenario_id": "policy-return-basic",
+      "category": "structured_business_context",
+      "query_text": "What is your return policy?",
+      "transcript": "What is your return policy?",
+      "exact_match": true,
+      "transcription_latency_ms": 3248.383557947818,
+      "input_synthesis_latency_ms": 314.21095196856186,
+      "wav_file": "stt_input_policy-return-basic.wav"
+    },
+    {
+      "scenario_id": "catalog-product-lookup",
+      "category": "catalog_context",
+      "query_text": "Tell me about product 2.",
+      "transcript": "Tell me about product 2.",
+      "exact_match": true,
+      "transcription_latency_ms": 3101.987192989327,
+      "input_synthesis_latency_ms": 320.35164203261957,
+      "wav_file": "stt_input_catalog-product-lookup.wav"
+    },
+    {
+      "scenario_id": "catalog-compare",
+      "category": "catalog_context",
+      "query_text": "Compare product 1 and product 3.",
+      "transcript": "Compare Product 1 and Product 3.",
+      "exact_match": false,
+      "transcription_latency_ms": 4057.7706140466034,
+      "input_synthesis_latency_ms": 332.4462469900027,
+      "wav_file": "stt_input_catalog-compare.wav"
+    },
+    {
+      "scenario_id": "catalog-lightest-under-budget",
+      "category": "structured_business_context",
+      "query_text": "What is the lightest running shoe under 100 euros?",
+      "transcript": "What is the lightest running shoe under 100 euros?",
+      "exact_match": true,
+      "transcription_latency_ms": 2956.2801030115224,
+      "input_synthesis_latency_ms": 364.6334500517696,
+      "wav_file": "stt_input_catalog-lightest-under-budget.wav"
+    },
+    {
+      "scenario_id": "document-explain-lightweight",
+      "category": "document_context",
+      "query_text": "Why might a lightweight design matter for race day running shoes?",
+      "transcript": "Why might a lightweight design matter for race day running shoes?",
+      "exact_match": true,
+      "transcription_latency_ms": 3202.7561379945837,
+      "input_synthesis_latency_ms": 339.12091999081895,
+      "wav_file": "stt_input_document-explain-lightweight.wav"
+    },
+    {
+      "scenario_id": "catalog-reviews",
+      "category": "catalog_context",
+      "query_text": "What do the reviews say about product 2?",
+      "transcript": "What do the reviews say about product 2?",
+      "exact_match": true,
+      "transcription_latency_ms": 2879.6751699992456,
+      "input_synthesis_latency_ms": 302.81541898148134,
+      "wav_file": "stt_input_catalog-reviews.wav"
+    },
+    {
+      "scenario_id": "policy-shipping-fallback",
+      "category": "structured_business_context",
+      "query_text": "What is your shipping policy?",
+      "transcript": "What is your shipping policy?",
+      "exact_match": true,
+      "transcription_latency_ms": 2953.936329984572,
+      "input_synthesis_latency_ms": 154.3278910103254,
+      "wav_file": "stt_input_policy-shipping-fallback.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-1",
+      "category": "structured_business_context",
+      "query_text": "What is the return window for electronics items?",
+      "transcript": "Ways the return window for electronic items.",
+      "exact_match": false,
+      "transcription_latency_ms": 3435.8488849829882,
+      "input_synthesis_latency_ms": 308.42656799359247,
+      "wav_file": "stt_input_sim-330a4c18-1.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-2",
+      "category": "catalog_context",
+      "query_text": "Show me the top-rated running shoes under $100.",
+      "transcript": "Show me the top-rated running shoes under $1.00.",
+      "exact_match": false,
+      "transcription_latency_ms": 3616.798861999996,
+      "input_synthesis_latency_ms": 322.22027896204963,
+      "wav_file": "stt_input_sim-330a4c18-2.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-3",
+      "category": "document_context",
+      "query_text": "Why is the memory foam mattress heavier than the innerspring one?",
+      "transcript": "Why is the memory foam mattress heavier than the inner spring one?",
+      "exact_match": false,
+      "transcription_latency_ms": 3650.414589967113,
+      "input_synthesis_latency_ms": 343.87356595834717,
+      "wav_file": "stt_input_sim-330a4c18-3.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-4",
+      "category": "session_context",
+      "query_text": "Is it available in blue?",
+      "transcript": "Is it available in blue?",
+      "exact_match": true,
+      "transcription_latency_ms": 2982.582763012033,
+      "input_synthesis_latency_ms": 203.35181400878355,
+      "wav_file": "stt_input_sim-330a4c18-4.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-5",
+      "category": "structured_business_context",
+      "query_text": "Do you offer free shipping for orders over $50?",
+      "transcript": "Do you offer free shipping for orders over $1.50?",
+      "exact_match": false,
+      "transcription_latency_ms": 3312.622167984955,
+      "input_synthesis_latency_ms": 312.11281497962773,
+      "wav_file": "stt_input_sim-330a4c18-5.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-6",
+      "category": "structured_business_context",
+      "query_text": "What is the return window for electronics if I haven't opened the box yet?",
+      "transcript": "What is the return window for electronics if I haven't opened the box yet?",
+      "exact_match": true,
+      "transcription_latency_ms": 3326.704636972863,
+      "input_synthesis_latency_ms": 357.70896897884086,
+      "wav_file": "stt_input_sim-330a4c18-6.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-7",
+      "category": "catalog_context",
+      "query_text": "Show me the top 3 rated wireless headphones under $100.",
+      "transcript": "Show me the top 3 rated wireless headphones under $1.00.",
+      "exact_match": false,
+      "transcription_latency_ms": 3153.6621039849706,
+      "input_synthesis_latency_ms": 391.20620797621086,
+      "wav_file": "stt_input_sim-330a4c18-7.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-8",
+      "category": "document_context",
+      "query_text": "Why is the shipping cost higher for items over 50 pounds compared to standard parcels?",
+      "transcript": "Why is the shipping cost higher for items over 50 pounds compared to standard parcels?",
+      "exact_match": true,
+      "transcription_latency_ms": 2462.78025401989,
+      "input_synthesis_latency_ms": 397.8333660052158,
+      "wav_file": "stt_input_sim-330a4c18-8.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-9",
+      "category": "session_context",
+      "query_text": "Does it come in black?",
+      "transcript": "Does it come in black?",
+      "exact_match": true,
+      "transcription_latency_ms": 2307.2516509564593,
+      "input_synthesis_latency_ms": 123.71744395932183,
+      "wav_file": "stt_input_sim-330a4c18-9.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-10",
+      "category": "structured_business_context",
+      "query_text": "Find me all laptops in the 'Business' category that weigh less than 2.5 kg and cost under $800.",
+      "transcript": "Find me all laptops in the business category that weigh less than 2.5 kg and cost $100.800.",
+      "exact_match": false,
+      "transcription_latency_ms": 2843.1582180201076,
+      "input_synthesis_latency_ms": 619.3046279950067,
+      "wav_file": "stt_input_sim-330a4c18-10.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-11",
+      "category": "structured_business_context",
+      "query_text": "What is the return policy for items that weigh more than 50 pounds?",
+      "transcript": "What is the return policy for items that weigh more than 50 pounds?",
+      "exact_match": true,
+      "transcription_latency_ms": 4091.1190640181303,
+      "input_synthesis_latency_ms": 315.1061629760079,
+      "wav_file": "stt_input_sim-330a4c18-11.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-12",
+      "category": "catalog_context",
+      "query_text": "Show me the top-rated laptops under $1000.",
+      "transcript": "Show me the top-rated laptops under $1,000.",
+      "exact_match": false,
+      "transcription_latency_ms": 3357.4566050083376,
+      "input_synthesis_latency_ms": 408.2269569626078,
+      "wav_file": "stt_input_sim-330a4c18-12.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-13",
+      "category": "document_context",
+      "query_text": "Why is the Sony WH-1000XM5 considered better than the Bose QuietComfort 45 for noise cancellation?",
+      "transcript": "Why is the Sony WH-1000XM5 considered better than the Bose Quiet Comfort 45 for noise cancellation?",
+      "exact_match": false,
+      "transcription_latency_ms": 3252.847194962669,
+      "input_synthesis_latency_ms": 964.4818289671093,
+      "wav_file": "stt_input_sim-330a4c18-13.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-14",
+      "category": "session_context",
+      "query_text": "How much does it cost to ship this to New York?",
+      "transcript": "How much does it cost to ship this to New York?",
+      "exact_match": true,
+      "transcription_latency_ms": 3117.7871400141157,
+      "input_synthesis_latency_ms": 394.89080500788987,
+      "wav_file": "stt_input_sim-330a4c18-14.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-15",
+      "category": "structured_business_context",
+      "query_text": "Does the warranty cover accidental damage for electronics purchased in the last 30 days?",
+      "transcript": "Does the warranty cover accidental damage for electronics purchased in the last 30 days?",
+      "exact_match": true,
+      "transcription_latency_ms": 3505.4997709812596,
+      "input_synthesis_latency_ms": 743.8206020160578,
+      "wav_file": "stt_input_sim-330a4c18-15.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-16",
+      "category": "structured_business_context",
+      "query_text": "What is the return window for electronics if I haven't opened the box yet?",
+      "transcript": "What is the return window for electronics if I haven't opened the box yet?",
+      "exact_match": true,
+      "transcription_latency_ms": 3592.163829016499,
+      "input_synthesis_latency_ms": 390.42568003060296,
+      "wav_file": "stt_input_sim-330a4c18-16.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-17",
+      "category": "catalog_context",
+      "query_text": "Show me the top 3 rated wireless headphones under $100.",
+      "transcript": "Show me the top three rated wireless headphones under $1.00.",
+      "exact_match": false,
+      "transcription_latency_ms": 4044.19078695355,
+      "input_synthesis_latency_ms": 424.1969520226121,
+      "wav_file": "stt_input_sim-330a4c18-17.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-18",
+      "category": "document_context",
+      "query_text": "Why is the shipping cost so high for items over 50 pounds compared to lighter items?",
+      "transcript": "Why is the shipping cost so high for items over \u00a350 compared to lighter items?",
+      "exact_match": false,
+      "transcription_latency_ms": 3335.8260709792376,
+      "input_synthesis_latency_ms": 463.7591589707881,
+      "wav_file": "stt_input_sim-330a4c18-18.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-19",
+      "category": "session_context",
+      "query_text": "Does it come in blue?",
+      "transcript": "Does it come in blue?",
+      "exact_match": true,
+      "transcription_latency_ms": 3524.7787929838523,
+      "input_synthesis_latency_ms": 169.944780995138,
+      "wav_file": "stt_input_sim-330a4c18-19.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-20",
+      "category": "structured_business_context",
+      "query_text": "Find me a laptop that weighs less than 3kg and costs under $800.",
+      "transcript": "Find me a laptop that weighs less than 3KG and costs under $800.",
+      "exact_match": false,
+      "transcription_latency_ms": 3420.3612150158733,
+      "input_synthesis_latency_ms": 581.1502460273914,
+      "wav_file": "stt_input_sim-330a4c18-20.wav"
+    }
+  ],
+  "routing_checks": [
+    {
+      "scenario_id": "policy-return-basic",
+      "category": "structured_business_context",
+      "query_text": "What is your return policy?",
+      "transcript": "What is your return policy?",
+      "voice_response": {
+        "message": "Running shoes can be returned within 30 days of delivery if they are in resellable condition.",
+        "trace": {
+          "variant": "tool_first",
+          "route": "policy",
+          "active_topic": "policy",
+          "session_summary": "What is your return policy?",
+          "tool_calls": [
+            {
+              "tool_name": "get_return_policy_info",
+              "arguments": {},
+              "status": "completed"
+            }
+          ],
+          "routing_decision": {
+            "variant": "tool_first",
+            "rule": "query requests structured facts that map to tools",
+            "combined": false
+          }
+        },
+        "char_length": 93,
+        "synthesis_latency_ms": 624.8636910459027,
+        "wav_file": "tts_response_policy-return-basic_voice.wav"
+      },
+      "text_response": {
+        "message": "Running shoes can be returned within 30 days of delivery if they are in resellable condition.",
+        "trace": {
+          "variant": "tool_first",
+          "route": "policy",
+          "active_topic": "policy",
+          "session_summary": "What is your return policy?",
+          "tool_calls": [
+            {
+              "tool_name": "get_return_policy_info",
+              "arguments": {},
+              "status": "completed"
+            }
+          ],
+          "routing_decision": {
+            "variant": "tool_first",
+            "rule": "query requests structured facts that map to tools",
+            "combined": false
+          }
+        },
+        "char_length": 93,
+        "synthesis_latency_ms": 483.08227298548445,
+        "wav_file": "tts_response_policy-return-basic_text.wav"
+      },
+      "comparison": {
+        "exact_transcript_match": true,
+        "same_variant": true,
+        "same_routing_rule": true,
+        "same_tool_names": true,
+        "same_evidence_ids": true
+      }
+    },
+    {
+      "scenario_id": "catalog-product-lookup",
+      "category": "catalog_context",
+      "query_text": "Tell me about product 2.",
+      "transcript": "Tell me about product 2.",
+      "voice_response": {
+        "message": "Product 2 is the **FeatherFly Pro** (SKU: RUN-002). It is a lightweight running shoe designed for fast sessions and races. The price is $95.00, and it is currently active with a returns policy available.",
+        "trace": {
+          "variant": "tool_first",
+          "route": "catalog",
+          "active_topic": "product",
+          "session_summary": "Tell me about product 2.",
+          "tool_calls": [
+            {
+              "tool_name": "get_product_by_id",
+              "arguments": {
+                "product_id": 2
+              },
+              "status": "completed"
+            }
+          ],
+          "routing_decision": {
+            "variant": "tool_first",
+            "rule": "query requests structured facts that map to tools",
+            "combined": false
+          }
+        },
+        "char_length": 203,
+        "synthesis_latency_ms": 1904.8823410412297,
+        "wav_file": "tts_response_catalog-product-lookup_voice.wav"
+      },
+      "text_response": {
+        "message": "Product 2 is the **FeatherFly Pro** (SKU: RUN-002). It is a lightweight running shoe designed for fast sessions and races. The price is $95.00, and it is currently active with a returns policy available.",
+        "trace": {
+          "variant": "tool_first",
+          "route": "catalog",
+          "active_topic": "product",
+          "session_summary": "Tell me about product 2.",
+          "tool_calls": [
+            {
+              "tool_name": "get_product_by_id",
+              "arguments": {
+                "product_id": 2
+              },
+              "status": "completed"
+            }
+          ],
+          "routing_decision": {
+            "variant": "tool_first",
+            "rule": "query requests structured facts that map to tools",
+            "combined": false
+          }
+        },
+        "char_length": 203,
+        "synthesis_latency_ms": 1915.365148044657,
+        "wav_file": "tts_response_catalog-product-lookup_text.wav"
+      },
+      "comparison": {
+        "exact_transcript_match": true,
+        "same_variant": true,
+        "same_routing_rule": true,
+        "same_tool_names": true,
+        "same_evidence_ids": true
+      }
+    },
+    {
+      "scenario_id": "catalog-compare",
+      "category": "catalog_context",
+      "query_text": "Compare product 1 and product 3.",
+      "transcript": "Compare Product 1 and Product 3.",
+      "voice_response": {
+        "message": "Product 1 (RoadSprint 3) is a balanced daily running shoe for road training priced at $89.00, while Product 3 (TrailCore Max) is a cushioned running shoe with extra support for long runs priced at $109.00. Product 1 is $20.00 cheaper than Product 3. Both products are active and share the same return policy.",
+        "trace": {
+          "variant": "tool_first",
+          "route": "catalog",
+          "active_topic": "product",
+          "session_summary": "Compare Product 1 and Product 3.",
+          "tool_calls": [
+            {
+              "tool_name": "compare_products",
+              "arguments": {
+                "left_product_id": 1,
+                "right_product_id": 3
+              },
+              "status": "completed"
+            }
+          ],
+          "routing_decision": {
+            "variant": "tool_first",
+            "rule": "query requests structured facts that map to tools",
+            "combined": false
+          }
+        },
+        "char_length": 308,
+        "synthesis_latency_ms": 2622.197402000893,
+        "wav_file": "tts_response_catalog-compare_voice.wav"
+      },
+      "text_response": {
+        "message": "Product 1 (RoadSprint 3) is a balanced daily running shoe for road training priced at $89.00, while Product 3 (TrailCore Max) is a cushioned running shoe with extra support for long runs priced at $109.00. Product 1 is $20.00 cheaper than Product 3. Both products are active and share the same return policy.",
+        "trace": {
+          "variant": "tool_first",
+          "route": "catalog",
+          "active_topic": "product",
+          "session_summary": "Compare product 1 and product 3.",
+          "tool_calls": [
+            {
+              "tool_name": "compare_products",
+              "arguments": {
+                "left_product_id": 1,
+                "right_product_id": 3
+              },
+              "status": "completed"
+            }
+          ],
+          "routing_decision": {
+            "variant": "tool_first",
+            "rule": "query requests structured facts that map to tools",
+            "combined": false
+          }
+        },
+        "char_length": 308,
+        "synthesis_latency_ms": 3044.3338280310854,
+        "wav_file": "tts_response_catalog-compare_text.wav"
+      },
+      "comparison": {
+        "exact_transcript_match": false,
+        "same_variant": true,
+        "same_routing_rule": true,
+        "same_tool_names": true,
+        "same_evidence_ids": true
+      }
+    },
+    {
+      "scenario_id": "catalog-lightest-under-budget",
+      "category": "structured_business_context",
+      "query_text": "What is the lightest running shoe under 100 euros?",
+      "transcript": "What is the lightest running shoe under 100 euros?",
+      "voice_response": {
+        "message": "The lightest running shoe under 100 euros is the FeatherFly Pro (SKU: RUN-002), which weighs 210 grams and costs 95.00 euros.",
+        "trace": {
+          "variant": "tool_first",
+          "route": "catalog",
+          "active_topic": "general",
+          "session_summary": "What is the lightest running shoe under 100 euros?",
+          "tool_calls": [
+            {
+              "tool_name": "get_lightest_product_under_price",
+              "arguments": {
+                "max_price_cents": 10000,
+                "category": "running shoe"
+              },
+              "status": "completed"
+            }
+          ],
+          "routing_decision": {
+            "variant": "tool_first",
+            "rule": "query requests structured facts that map to tools",
+            "combined": false
+          }
+        },
+        "char_length": 125,
+        "synthesis_latency_ms": 952.961326984223,
+        "wav_file": "tts_response_catalog-lightest-under-budget_voice.wav"
+      },
+      "text_response": {
+        "message": "The lightest running shoe under 100 euros is the FeatherFly Pro (SKU: RUN-002), which weighs 210 grams and costs 95.00 euros.",
+        "trace": {
+          "variant": "tool_first",
+          "route": "catalog",
+          "active_topic": "general",
+          "session_summary": "What is the lightest running shoe under 100 euros?",
+          "tool_calls": [
+            {
+              "tool_name": "get_lightest_product_under_price",
+              "arguments": {
+                "max_price_cents": 10000,
+                "category": "running shoe"
+              },
+              "status": "completed"
+            }
+          ],
+          "routing_decision": {
+            "variant": "tool_first",
+            "rule": "query requests structured facts that map to tools",
+            "combined": false
+          }
+        },
+        "char_length": 125,
+        "synthesis_latency_ms": 1494.2192810121924,
+        "wav_file": "tts_response_catalog-lightest-under-budget_text.wav"
+      },
+      "comparison": {
+        "exact_transcript_match": true,
+        "same_variant": true,
+        "same_routing_rule": true,
+        "same_tool_names": true,
+        "same_evidence_ids": true
+      }
+    },
+    {
+      "scenario_id": "document-explain-lightweight",
+      "category": "document_context",
+      "query_text": "Why might a lightweight design matter for race day running shoes?",
+      "transcript": "Why might a lightweight design matter for race day running shoes?",
+      "voice_response": {
+        "message": "A lightweight design matters for race day running shoes because it is specifically engineered to support fast sessions and races. For example, the FeatherFly Pro is described as a lightweight running shoe (weighing 210 grams) intended for these high-performance scenarios, distinguishing it from heavier, balanced daily training shoes like the RoadSprint 3 (230 grams).",
+        "trace": {
+          "variant": "hybrid",
+          "route": "fallback",
+          "active_topic": "general",
+          "session_summary": "Why might a lightweight design matter for race day running shoes?",
+          "tool_calls": [],
+          "evidence_count": 3,
+          "routing_decision": {
+            "variant": "hybrid",
+            "rule": "query combines multiple structured needs or asks for explanation",
+            "combined": true
+          }
+        },
+        "char_length": 369,
+        "synthesis_latency_ms": 2322.782050992828,
+        "wav_file": "tts_response_document-explain-lightweight_voice.wav"
+      },
+      "text_response": {
+        "message": "A lightweight design matters for race day running shoes because it is specifically engineered to support fast sessions and races. For example, the FeatherFly Pro is described as a lightweight running shoe (weighing 210 grams) designed for this purpose, distinguishing it from heavier, balanced daily training shoes like the RoadSprint 3 (230 grams).",
+        "trace": {
+          "variant": "hybrid",
+          "route": "fallback",
+          "active_topic": "general",
+          "session_summary": "Why might a lightweight design matter for race day running shoes?",
+          "tool_calls": [],
+          "evidence_count": 3,
+          "routing_decision": {
+            "variant": "hybrid",
+            "rule": "query combines multiple structured needs or asks for explanation",
+            "combined": true
+          }
+        },
+        "char_length": 349,
+        "synthesis_latency_ms": 2081.4099790295586,
+        "wav_file": "tts_response_document-explain-lightweight_text.wav"
+      },
+      "comparison": {
+        "exact_transcript_match": true,
+        "same_variant": true,
+        "same_routing_rule": true,
+        "same_tool_names": true,
+        "same_evidence_ids": true
+      }
+    },
+    {
+      "scenario_id": "catalog-reviews",
+      "category": "catalog_context",
+      "query_text": "What do the reviews say about product 2?",
+      "transcript": "What do the reviews say about product 2?",
+      "voice_response": {
+        "message": "There are no reviews for product 2.",
+        "trace": {
+          "variant": "tool_first",
+          "route": "catalog",
+          "active_topic": "product",
+          "session_summary": "What do the reviews say about product 2?",
+          "tool_calls": [
+            {
+              "tool_name": "get_product_reviews",
+              "arguments": {
+                "product_id": 2
+              },
+              "status": "completed"
+            }
+          ],
+          "routing_decision": {
+            "variant": "tool_first",
+            "rule": "query requests structured facts that map to tools",
+            "combined": false
+          }
+        },
+        "char_length": 35,
+        "synthesis_latency_ms": 299.49985403800383,
+        "wav_file": "tts_response_catalog-reviews_voice.wav"
+      },
+      "text_response": {
+        "message": "There are no reviews available for product 2.",
+        "trace": {
+          "variant": "tool_first",
+          "route": "catalog",
+          "active_topic": "product",
+          "session_summary": "What do the reviews say about product 2?",
+          "tool_calls": [
+            {
+              "tool_name": "get_product_reviews",
+              "arguments": {
+                "product_id": 2
+              },
+              "status": "completed"
+            }
+          ],
+          "routing_decision": {
+            "variant": "tool_first",
+            "rule": "query requests structured facts that map to tools",
+            "combined": false
+          }
+        },
+        "char_length": 45,
+        "synthesis_latency_ms": 394.6866960031912,
+        "wav_file": "tts_response_catalog-reviews_text.wav"
+      },
+      "comparison": {
+        "exact_transcript_match": true,
+        "same_variant": true,
+        "same_routing_rule": true,
+        "same_tool_names": true,
+        "same_evidence_ids": true
+      }
+    },
+    {
+      "scenario_id": "policy-shipping-fallback",
+      "category": "structured_business_context",
+      "query_text": "What is your shipping policy?",
+      "transcript": "What is your shipping policy?",
+      "voice_response": {
+        "message": "Running shoes can be returned within 30 days of delivery if they are in resellable condition.",
+        "trace": {
+          "variant": "tool_first",
+          "route": "policy",
+          "active_topic": "policy",
+          "session_summary": "What is your shipping policy?",
+          "tool_calls": [
+            {
+              "tool_name": "get_shipping_policy_info",
+              "arguments": {},
+              "status": "completed"
+            }
+          ],
+          "routing_decision": {
+            "variant": "tool_first",
+            "rule": "query requests structured facts that map to tools",
+            "combined": false
+          }
+        },
+        "char_length": 93,
+        "synthesis_latency_ms": 615.789333009161,
+        "wav_file": "tts_response_policy-shipping-fallback_voice.wav"
+      },
+      "text_response": {
+        "message": "Running shoes can be returned within 30 days of delivery if they are in resellable condition.",
+        "trace": {
+          "variant": "tool_first",
+          "route": "policy",
+          "active_topic": "policy",
+          "session_summary": "What is your shipping policy?",
+          "tool_calls": [
+            {
+              "tool_name": "get_shipping_policy_info",
+              "arguments": {},
+              "status": "completed"
+            }
+          ],
+          "routing_decision": {
+            "variant": "tool_first",
+            "rule": "query requests structured facts that map to tools",
+            "combined": false
+          }
+        },
+        "char_length": 93,
+        "synthesis_latency_ms": 620.3713580034673,
+        "wav_file": "tts_response_policy-shipping-fallback_text.wav"
+      },
+      "comparison": {
+        "exact_transcript_match": true,
+        "same_variant": true,
+        "same_routing_rule": true,
+        "same_tool_names": true,
+        "same_evidence_ids": true
+      }
+    },
+    {
+      "scenario_id": "sim-330a4c18-1",
+      "category": "structured_business_context",
+      "query_text": "What is the return window for electronics items?",
+      "transcript": "Ways the return window for electronic items.",
+      "voice_response": {
+        "message": "The provided policy information states that running shoes can be returned within 30 days of delivery if they are in resellable condition. It does not contain information regarding the return window for electronic items.",
+        "trace": {
+          "variant": "tool_first",
+          "route": "policy",
+          "active_topic": "policy",
+          "session_summary": "Ways the return window for electronic items.",
+          "tool_calls": [
+            {
+              "tool_name": "get_return_policy_info",
+              "arguments": {},
+              "status": "completed"
+            }
+          ],
+          "routing_decision": {
+            "variant": "tool_first",
+            "rule": "query requests structured facts that map to tools",
+            "combined": false
+          }
+        },
+        "char_length": 219,
+        "synthesis_latency_ms": 1040.6425189576112,
+        "wav_file": "tts_response_sim-330a4c18-1_voice.wav"
+      },
+      "text_response": {
+        "message": "The provided tool output does not contain information regarding the return window for electronics items; it only specifies that running shoes can be returned within 30 days of delivery if they are in resellable condition.",
+        "trace": {
+          "variant": "tool_first",
+          "route": "policy",
+          "active_topic": "policy",
+          "session_summary": "What is the return window for electronics items?",
+          "tool_calls": [
+            {
+              "tool_name": "get_return_policy_info",
+              "arguments": {},
+              "status": "completed"
+            }
+          ],
+          "routing_decision": {
+            "variant": "tool_first",
+            "rule": "query requests structured facts that map to tools",
+            "combined": false
+          }
+        },
+        "char_length": 221,
+        "synthesis_latency_ms": 1212.7412399859168,
+        "wav_file": "tts_response_sim-330a4c18-1_text.wav"
+      },
+      "comparison": {
+        "exact_transcript_match": false,
+        "same_variant": true,
+        "same_routing_rule": true,
+        "same_tool_names": true,
+        "same_evidence_ids": true
+      }
+    },
+    {
+      "scenario_id": "sim-330a4c18-2",
+      "category": "catalog_context",
+      "query_text": "Show me the top-rated running shoes under $100.",
+      "transcript": "Show me the top-rated running shoes under $1.00.",
+      "voice_response": {
+        "message": "I cannot provide a list of top-rated running shoes under $1.00 because there are no products in the provided data that meet this price criterion.\n\nThe only running shoe listed is the **TrailCore Max** (SKU: RUN-003), which costs **10,900 cents** ($109.00). This is significantly above the $1.00 budget. The other product mentioned is an Apple MacBook Air, which is not a running shoe.",
+        "trace": {
+          "variant": "hybrid",
+          "route": "fallback",
+          "active_topic": "general",
+          "session_summary": "Show me the top-rated running shoes under $1.00.",
+          "tool_calls": [],
+          "evidence_count": 3,
+          "routing_decision": {
+            "variant": "hybrid",
+            "rule": "query combines multiple structured needs or asks for explanation",
+            "combined": true
+          }
+        },
+        "char_length": 384,
+        "synthesis_latency_ms": 3428.1253599910997,
+        "wav_file": "tts_response_sim-330a4c18-2_voice.wav"
+      },
+      "text_response": {
+        "message": "Based on the provided information, the **FeatherFly Pro** is the only running shoe listed that meets the criteria of being under $100.\n\n*   **FeatherFly Pro**: Priced at 9500 cents ($95.00), this lightweight running shoe is designed for fast sessions and races. It features engineered mesh material and comes in white.\n\nThe other listed shoe, the **TrailCore Max**, is priced at 10900 cents ($109.00), which exceeds the $100 budget.\n\n*Note: The provided data does not include customer ratings or reviews, so \"top-rated\" cannot be verified from the current information. However, the FeatherFly Pro is the only option available within your price range.*",
+        "trace": {
+          "variant": "hybrid",
+          "route": "fallback",
+          "active_topic": "general",
+          "session_summary": "Show me the top-rated running shoes under $100.",
+          "tool_calls": [],
+          "evidence_count": 3,
+          "routing_decision": {
+            "variant": "hybrid",
+            "rule": "query combines multiple structured needs or asks for explanation",
+            "combined": true
+          }
+        },
+        "char_length": 651,
+        "synthesis_latency_ms": 5667.944751970936,
+        "wav_file": "tts_response_sim-330a4c18-2_text.wav"
+      },
+      "comparison": {
+        "exact_transcript_match": false,
+        "same_variant": true,
+        "same_routing_rule": true,
+        "same_tool_names": true,
+        "same_evidence_ids": false
+      }
+    },
+    {
+      "scenario_id": "sim-330a4c18-4",
+      "category": "session_context",
+      "query_text": "Is it available in blue?",
+      "transcript": "Is it available in blue?",
+      "voice_response": {
+        "message": "The provided evidence does not contain information about the \"Model X450 Jacket.\" The evidence only lists a \"RoadSprint 3\" running shoe (which is available in blue) and a \"Teufel Radio 3SIXTY\" speaker. Therefore, I cannot answer whether the Model X450 Jacket is available in blue based on the given text.",
+        "trace": {
+          "variant": "retrieval",
+          "active_topic": "general",
+          "evidence_count": 3,
+          "prompt_chars": 12762,
+          "session_summary": "I'm looking at the Model X450 Jacket. | Is it available in blue?",
+          "routing_decision": {
+            "variant": "retrieval",
+            "rule": "query is open-ended and better served by retrieval context",
+            "combined": false
+          }
+        },
+        "char_length": 304,
+        "synthesis_latency_ms": 1774.8919159639627,
+        "wav_file": "tts_response_sim-330a4c18-4_voice.wav"
+      },
+      "text_response": {
+        "message": "The provided evidence does not contain information about the \"Model X450 Jacket.\" The available product data refers to the \"RoadSprint 3\" running shoe (which is available in blue) and the \"Teufel Radio 3SIXTY\" speaker. Therefore, I cannot determine if the Model X450 Jacket is available in blue based on this evidence.",
+        "trace": {
+          "variant": "retrieval",
+          "active_topic": "general",
+          "evidence_count": 3,
+          "prompt_chars": 12762,
+          "session_summary": "I'm looking at the Model X450 Jacket. | Is it available in blue?",
+          "routing_decision": {
+            "variant": "retrieval",
+            "rule": "query is open-ended and better served by retrieval context",
+            "combined": false
+          }
+        },
+        "char_length": 318,
+        "synthesis_latency_ms": 1808.0885019735433,
+        "wav_file": "tts_response_sim-330a4c18-4_text.wav"
+      },
+      "comparison": {
+        "exact_transcript_match": true,
+        "same_variant": true,
+        "same_routing_rule": true,
+        "same_tool_names": true,
+        "same_evidence_ids": true
+      }
+    },
+    {
+      "scenario_id": "sim-330a4c18-5",
+      "category": "structured_business_context",
+      "query_text": "Do you offer free shipping for orders over $50?",
+      "transcript": "Do you offer free shipping for orders over $1.50?",
+      "voice_response": {
+        "message": "The provided information pertains to the Return Policy, stating that running shoes can be returned within 30 days of delivery if they are in resellable condition. It does not contain information regarding free shipping for orders over $1.50.",
+        "trace": {
+          "variant": "tool_first",
+          "route": "policy",
+          "active_topic": "policy",
+          "session_summary": "Do you offer free shipping for orders over $1.50?",
+          "tool_calls": [
+            {
+              "tool_name": "get_shipping_policy_info",
+              "arguments": {},
+              "status": "completed"
+            }
+          ],
+          "routing_decision": {
+            "variant": "tool_first",
+            "rule": "query requests structured facts that map to tools",
+            "combined": false
+          }
+        },
+        "char_length": 241,
+        "synthesis_latency_ms": 1399.9281029682606,
+        "wav_file": "tts_response_sim-330a4c18-5_voice.wav"
+      },
+      "text_response": {
+        "message": "The tool output does not contain information about free shipping for orders over $50. It provides the Return Policy, stating that running shoes can be returned within 30 days of delivery if they are in resellable condition.",
+        "trace": {
+          "variant": "tool_first",
+          "route": "policy",
+          "active_topic": "policy",
+          "session_summary": "Do you offer free shipping for orders over $50?",
+          "tool_calls": [
+            {
+              "tool_name": "get_shipping_policy_info",
+              "arguments": {},
+              "status": "completed"
+            }
+          ],
+          "routing_decision": {
+            "variant": "tool_first",
+            "rule": "query requests structured facts that map to tools",
+            "combined": false
+          }
+        },
+        "char_length": 223,
+        "synthesis_latency_ms": 1033.2150250324048,
+        "wav_file": "tts_response_sim-330a4c18-5_text.wav"
+      },
+      "comparison": {
+        "exact_transcript_match": false,
+        "same_variant": true,
+        "same_routing_rule": true,
+        "same_tool_names": true,
+        "same_evidence_ids": true
+      }
+    },
+    {
+      "scenario_id": "sim-330a4c18-9",
+      "category": "session_context",
+      "query_text": "Does it come in black?",
+      "transcript": "Does it come in black?",
+      "voice_response": {
+        "message": "The provided evidence does not contain information about the Sony WH-1000XM5 headphones. The evidence lists a TrailCore Max running shoe (which is black), a Samsung OLED TV, and an Apple MacBook Air, but none of these are the product in question. Therefore, based strictly on the provided evidence, I cannot answer whether the Sony WH-1000XM5 comes in black.",
+        "trace": {
+          "variant": "retrieval",
+          "active_topic": "general",
+          "evidence_count": 3,
+          "prompt_chars": 1545,
+          "session_summary": "I'm looking at the Sony WH-1000XM5 headphones. | Does it come in black?",
+          "routing_decision": {
+            "variant": "retrieval",
+            "rule": "query is open-ended and better served by retrieval context",
+            "combined": false
+          }
+        },
+        "char_length": 358,
+        "synthesis_latency_ms": 2008.350503980182,
+        "wav_file": "tts_response_sim-330a4c18-9_voice.wav"
+      },
+      "text_response": {
+        "message": "Based on the provided evidence, there is no information regarding the Sony WH-1000XM5 headphones. The evidence only lists details for a TrailCore Max running shoe, a Samsung OLED TV, and an Apple MacBook Air. Therefore, I cannot answer whether the Sony WH-1000XM5 comes in black using only the provided text.",
+        "trace": {
+          "variant": "retrieval",
+          "active_topic": "general",
+          "evidence_count": 3,
+          "prompt_chars": 1545,
+          "session_summary": "I'm looking at the Sony WH-1000XM5 headphones. | Does it come in black?",
+          "routing_decision": {
+            "variant": "retrieval",
+            "rule": "query is open-ended and better served by retrieval context",
+            "combined": false
+          }
+        },
+        "char_length": 308,
+        "synthesis_latency_ms": 1791.87378694769,
+        "wav_file": "tts_response_sim-330a4c18-9_text.wav"
+      },
+      "comparison": {
+        "exact_transcript_match": true,
+        "same_variant": true,
+        "same_routing_rule": true,
+        "same_tool_names": true,
+        "same_evidence_ids": true
+      }
+    },
+    {
+      "scenario_id": "sim-330a4c18-12",
+      "category": "catalog_context",
+      "query_text": "Show me the top-rated laptops under $1000.",
+      "transcript": "Show me the top-rated laptops under $1,000.",
+      "voice_response": {
+        "message": "Based on the provided evidence, there are **no laptops** that meet the criteria of being under $1,000.\n\nHere is the breakdown of the laptop options listed:\n\n1.  **Apple MacBook Air 15\" (M4)**\n    *   **Price:** $1,499.00 (149,900 cents)\n    *   **Rating:** 4.7 stars\n    *   **Status:** Exceeds the $1,000 budget.\n\n2.  **Dell XPS 13 (2026) Business Laptop**\n    *   **Price:** $1,199.00 (119,900 cents)\n    *   **Rating:** 4.5 stars\n    *   **Status:** Exceeds the $1,000 budget.\n\nThe other item in the evidence, the **Teufel Radio 3SIXTY**, is priced at $284.99 and has a high rating (4.68 stars), but it is a radio/speaker, not a laptop.",
+        "trace": {
+          "variant": "retrieval",
+          "active_topic": "general",
+          "evidence_count": 3,
+          "prompt_chars": 13672,
+          "session_summary": "Show me the top-rated laptops under $1,000.",
+          "routing_decision": {
+            "variant": "retrieval",
+            "rule": "query is open-ended and better served by retrieval context",
+            "combined": false
+          }
+        },
+        "char_length": 639,
+        "synthesis_latency_ms": 9843.512542021926,
+        "wav_file": "tts_response_sim-330a4c18-12_voice.wav"
+      },
+      "text_response": {
+        "message": "Based on the provided evidence, there are **no laptops** listed that are under $1000.\n\nHere is the breakdown of the laptops found in the evidence:\n\n1.  **Apple MacBook Air 15\" (M4)**\n    *   **Price:** 149,900 cents ($1,499.00)\n    *   **Rating:** 4.7 stars\n    *   **Status:** Over budget.\n\n2.  **Dell XPS 13 (2026) Business Laptop**\n    *   **Price:** 119,900 cents ($1,199.00)\n    *   **Rating:** 4.5 stars\n    *   **Status:** Over budget.\n\nThe other item in the evidence, the **Teufel Radio 3SIXTY**, is a radio/speaker (Category: Computer, Multimedia & Audio), not a laptop, and costs $284.99.",
+        "trace": {
+          "variant": "retrieval",
+          "active_topic": "general",
+          "evidence_count": 3,
+          "prompt_chars": 13670,
+          "session_summary": "Show me the top-rated laptops under $1000.",
+          "routing_decision": {
+            "variant": "retrieval",
+            "rule": "query is open-ended and better served by retrieval context",
+            "combined": false
+          }
+        },
+        "char_length": 598,
+        "synthesis_latency_ms": 9692.66402599169,
+        "wav_file": "tts_response_sim-330a4c18-12_text.wav"
+      },
+      "comparison": {
+        "exact_transcript_match": false,
+        "same_variant": true,
+        "same_routing_rule": true,
+        "same_tool_names": true,
+        "same_evidence_ids": true
+      }
+    },
+    {
+      "scenario_id": "sim-330a4c18-13",
+      "category": "document_context",
+      "query_text": "Why is the Sony WH-1000XM5 considered better than the Bose QuietComfort 45 for noise cancellation?",
+      "transcript": "Why is the Sony WH-1000XM5 considered better than the Bose Quiet Comfort 45 for noise cancellation?",
+      "voice_response": {
+        "message": "Based on the provided evidence, the Sony WH-1000XM5 is considered better than the Bose QuietComfort 45 for noise cancellation for the following reasons:\n\n*   **Superior Performance:** The Sony WH-1000XM5 is described as having \"industry-leading noise cancellation,\" whereas the Bose QuietComfort 45's noise cancellation is noted to be \"a notch behind.\"\n*   **User Experience:** Reviews for the Sony WH-1000XM5 state that its noise cancellation is \"a step above\" the Bose QuietComfort 45. Specifically, one review highlights that the Sony headphones are the \"best noise cancellation I've tried,\" capable of blocking out airplane engine noise \"almost completely.\"",
+        "trace": {
+          "variant": "retrieval",
+          "active_topic": "general",
+          "evidence_count": 3,
+          "prompt_chars": 13900,
+          "session_summary": "Why is the Sony WH-1000XM5 considered better than the Bose Quiet Comfort 45 for noise cancellation?",
+          "routing_decision": {
+            "variant": "retrieval",
+            "rule": "query is open-ended and better served by retrieval context",
+            "combined": false
+          }
+        },
+        "char_length": 661,
+        "synthesis_latency_ms": 4806.893915985711,
+        "wav_file": "tts_response_sim-330a4c18-13_voice.wav"
+      },
+      "text_response": {
+        "message": "Based on the provided evidence, the Sony WH-1000XM5 is considered better than the Bose QuietComfort 45 for noise cancellation because its noise cancellation is described as \"a step above\" the Bose model. Specifically, reviewers note that the Sony headphones offer \"industry-leading noise cancellation\" that can block out airplane engine noise \"almost completely,\" whereas the Bose QuietComfort 45's noise cancellation is considered \"a notch behind.\"",
+        "trace": {
+          "variant": "retrieval",
+          "active_topic": "general",
+          "evidence_count": 3,
+          "prompt_chars": 13898,
+          "session_summary": "Why is the Sony WH-1000XM5 considered better than the Bose QuietComfort 45 for noise cancellation?",
+          "routing_decision": {
+            "variant": "retrieval",
+            "rule": "query is open-ended and better served by retrieval context",
+            "combined": false
+          }
+        },
+        "char_length": 449,
+        "synthesis_latency_ms": 2838.517156022135,
+        "wav_file": "tts_response_sim-330a4c18-13_text.wav"
+      },
+      "comparison": {
+        "exact_transcript_match": false,
+        "same_variant": true,
+        "same_routing_rule": true,
+        "same_tool_names": true,
+        "same_evidence_ids": true
+      }
+    },
+    {
+      "scenario_id": "sim-330a4c18-15",
+      "category": "structured_business_context",
+      "query_text": "Does the warranty cover accidental damage for electronics purchased in the last 30 days?",
+      "transcript": "Does the warranty cover accidental damage for electronics purchased in the last 30 days?",
+      "voice_response": {
+        "message": "The warranty policy information is not available. The system retrieved the Return Policy instead, which states that running shoes can be returned within 30 days of delivery if they are in resellable condition.",
+        "trace": {
+          "variant": "tool_first",
+          "route": "policy",
+          "active_topic": "general",
+          "session_summary": "Does the warranty cover accidental damage for electronics purchased in the last 30 days?",
+          "tool_calls": [
+            {
+              "tool_name": "get_warranty_policy_info",
+              "arguments": {},
+              "status": "completed"
+            }
+          ],
+          "routing_decision": {
+            "variant": "tool_first",
+            "rule": "query requests structured facts that map to tools",
+            "combined": false
+          }
+        },
+        "char_length": 209,
+        "synthesis_latency_ms": 1342.320293013472,
+        "wav_file": "tts_response_sim-330a4c18-15_voice.wav"
+      },
+      "text_response": {
+        "message": "The warranty policy information is not available. The system returned the Return Policy instead, which states: \"Running shoes can be returned within 30 days of delivery if they are in resellable condition.\"",
+        "trace": {
+          "variant": "tool_first",
+          "route": "policy",
+          "active_topic": "general",
+          "session_summary": "Does the warranty cover accidental damage for electronics purchased in the last 30 days?",
+          "tool_calls": [
+            {
+              "tool_name": "get_warranty_policy_info",
+              "arguments": {},
+              "status": "completed"
+            }
+          ],
+          "routing_decision": {
+            "variant": "tool_first",
+            "rule": "query requests structured facts that map to tools",
+            "combined": false
+          }
+        },
+        "char_length": 206,
+        "synthesis_latency_ms": 1258.8695570011623,
+        "wav_file": "tts_response_sim-330a4c18-15_text.wav"
+      },
+      "comparison": {
+        "exact_transcript_match": true,
+        "same_variant": true,
+        "same_routing_rule": true,
+        "same_tool_names": true,
+        "same_evidence_ids": true
+      }
+    },
+    {
+      "scenario_id": "sim-330a4c18-17",
+      "category": "catalog_context",
+      "query_text": "Show me the top 3 rated wireless headphones under $100.",
+      "transcript": "Show me the top three rated wireless headphones under $1.00.",
+      "voice_response": {
+        "message": "Based on the provided evidence, there are **no wireless headphones under $1.00**.\n\nThe evidence lists two wireless headphone products, but both are significantly more expensive than $1.00:\n1.  **Sony WH-1000XM5**: Priced at 34,900 cents ($349.00).\n2.  **Bose QuietComfort 45**: Priced at 32,900 cents ($329.00).\n\nThe third product listed is an Apple MacBook Air 15\", which is not a headphone and is priced at 149,900 cents ($1,499.00).\n\nTherefore, it is not possible to show the top three rated wireless headphones under $1.00 using the provided data.",
+        "trace": {
+          "variant": "retrieval",
+          "active_topic": "general",
+          "evidence_count": 3,
+          "prompt_chars": 2179,
+          "session_summary": "Show me the top three rated wireless headphones under $1.00.",
+          "routing_decision": {
+            "variant": "retrieval",
+            "rule": "query is open-ended and better served by retrieval context",
+            "combined": false
+          }
+        },
+        "char_length": 551,
+        "synthesis_latency_ms": 6700.270569999702,
+        "wav_file": "tts_response_sim-330a4c18-17_voice.wav"
+      },
+      "text_response": {
+        "message": "Based on the provided evidence, there are **no wireless headphones** listed that meet the criteria of being under $100.\n\nHere is the breakdown of the relevant products in the evidence:\n\n1.  **Sony WH-1000XM5 Wireless Noise Cancelling Headphones**:\n    *   **Price**: 34,900 cents ($349.00)\n    *   **Rating**: 4.6 stars\n    *   **Status**: Exceeds the $100 budget.\n\n2.  **Bose QuietComfort 45 Wireless Headphones**:\n    *   **Price**: 32,900 cents ($329.00)\n    *   **Rating**: 4.4 stars\n    *   **Status**: Exceeds the $100 budget.\n\n3.  **Teufel Radio 3SIXTY**:\n    *   **Price**: 28,499 cents ($284.99)\n    *   **Type**: This is a **Bluetooth Speaker/Radio**, not headphones.\n    *   **Status**: Exceeds the $100 budget and is the",
+        "trace": {
+          "variant": "retrieval",
+          "active_topic": "general",
+          "evidence_count": 3,
+          "prompt_chars": 13812,
+          "session_summary": "Show me the top 3 rated wireless headphones under $100.",
+          "routing_decision": {
+            "variant": "retrieval",
+            "rule": "query is open-ended and better served by retrieval context",
+            "combined": false
+          }
+        },
+        "char_length": 732,
+        "synthesis_latency_ms": 11103.414158977102,
+        "wav_file": "tts_response_sim-330a4c18-17_text.wav"
+      },
+      "comparison": {
+        "exact_transcript_match": false,
+        "same_variant": true,
+        "same_routing_rule": true,
+        "same_tool_names": true,
+        "same_evidence_ids": false
+      }
+    },
+    {
+      "scenario_id": "sim-330a4c18-20",
+      "category": "structured_business_context",
+      "query_text": "Find me a laptop that weighs less than 3kg and costs under $800.",
+      "transcript": "Find me a laptop that weighs less than 3KG and costs under $800.",
+      "voice_response": {
+        "message": "Based on the provided evidence, there are **no laptops** that meet both criteria (weighing less than 3KG and costing under $800).\n\nHere is the breakdown of the laptop options provided:\n\n1.  **Dell XPS 13 (2026)**:\n    *   **Weight**: 1.2kg (Meets the <3KG requirement).\n    *   **Price**: 119,900 cents = **$1,199.00** (Does **not** meet the <$800 requirement).\n\n2.  **Apple MacBook Air 15\" (M4)**:\n    *   **Weight**: 1.5kg (Meets the <3KG requirement).\n    *   **Price**: 149,900 cents = **$1,499.00** (Does **not** meet the <$800 requirement).\n\nThe other item in the evidence, the **FeatherFly Pro**, is a running shoe, not a laptop.\n\n**Conclusion:** None of the listed laptops are under $800.",
+        "trace": {
+          "variant": "retrieval",
+          "active_topic": "general",
+          "evidence_count": 3,
+          "prompt_chars": 1663,
+          "session_summary": "Find me a laptop that weighs less than 3KG and costs under $800.",
+          "routing_decision": {
+            "variant": "retrieval",
+            "rule": "query is open-ended and better served by retrieval context",
+            "combined": false
+          }
+        },
+        "char_length": 696,
+        "synthesis_latency_ms": 9202.312487992458,
+        "wav_file": "tts_response_sim-330a4c18-20_voice.wav"
+      },
+      "text_response": {
+        "message": "Based on the provided evidence, there are **no laptops** that meet both criteria (weighing less than 3kg and costing under $800).\n\nHere is the breakdown:\n\n1.  **Dell XPS 13 (2026)**:\n    *   **Weight**: 1.2kg (Meets the <3kg requirement).\n    *   **Price**: 119,900 cents = **$1,199.00** (Does **not** meet the <$800 requirement).\n\n2.  **Apple MacBook Air 15\" (M4)**:\n    *   **Weight**: 1.5kg (Meets the <3kg requirement).\n    *   **Price**: 149,900 cents = **$1,499.00** (Does **not** meet the <$800 requirement).\n\n3.  **FeatherFly Pro**:\n    *   This is a **running shoe**, not a laptop, so it is irrelevant to the request.\n\n**Conclusion**: None of the listed laptops are under $800. Both available laptop options exceed the budget.",
+        "trace": {
+          "variant": "retrieval",
+          "active_topic": "general",
+          "evidence_count": 3,
+          "prompt_chars": 1663,
+          "session_summary": "Find me a laptop that weighs less than 3kg and costs under $800.",
+          "routing_decision": {
+            "variant": "retrieval",
+            "rule": "query is open-ended and better served by retrieval context",
+            "combined": false
+          }
+        },
+        "char_length": 735,
+        "synthesis_latency_ms": 11627.751181018539,
+        "wav_file": "tts_response_sim-330a4c18-20_text.wav"
+      },
+      "comparison": {
+        "exact_transcript_match": false,
+        "same_variant": true,
+        "same_routing_rule": true,
+        "same_tool_names": true,
+        "same_evidence_ids": true
+      }
+    }
+  ],
+  "multi_turn": [
+    {
+      "demo_id": "session_carryover",
+      "turns": [
+        {
+          "turn": 1,
+          "query_text": "What is your return policy?",
+          "transcript": "What is your return policy?",
+          "exact_match": true,
+          "transcription_latency_ms": 4132.786554982886,
+          "message": "Running shoes can be returned within 30 days of delivery if they are in resellable condition.",
+          "trace": {
+            "variant": "tool_first",
+            "route": "policy",
+            "active_topic": "policy",
+            "session_summary": "What is your return policy?",
+            "tool_calls": [
+              {
+                "tool_name": "get_return_policy_info",
+                "arguments": {},
+                "status": "completed"
+              }
+            ],
+            "routing_decision": {
+              "variant": "tool_first",
+              "rule": "query requests structured facts that map to tools",
+              "combined": false
+            }
+          },
+          "char_length": 93,
+          "synthesis_latency_ms": 633.6053150007501,
+          "wav_file": "tts_response_session_carryover_turn1.wav"
+        },
+        {
+          "turn": 2,
+          "query_text": "And how many days do I have to return it?",
+          "transcript": "and how many days do I have to return it?",
+          "exact_match": false,
+          "transcription_latency_ms": 3292.093623022083,
+          "message": "You have 30 days from the date of delivery to return the item, provided it is in resellable condition.",
+          "trace": {
+            "variant": "hybrid",
+            "route": "combined",
+            "active_topic": "policy",
+            "session_summary": "What is your return policy? | and how many days do I have to return it?",
+            "tool_calls": [
+              {
+                "tool_name": "get_return_policy_info",
+                "arguments": {},
+                "status": "completed"
+              }
+            ],
+            "evidence_count": 1,
+            "source_ids": [
+              "policy:1"
+            ],
+            "routing_decision": {
+              "variant": "hybrid",
+              "rule": "query combines multiple structured needs or asks for explanation",
+              "combined": true
+            }
+          },
+          "char_length": 102,
+          "synthesis_latency_ms": 604.0208670310676,
+          "wav_file": "tts_response_session_carryover_turn2.wav"
+        }
+      ]
+    },
+    {
+      "demo_id": "topic_switch",
+      "turns": [
+        {
+          "turn": 1,
+          "query_text": "What is your return policy?",
+          "transcript": "What is your return policy?",
+          "exact_match": true,
+          "transcription_latency_ms": 3438.267711957451,
+          "message": "Running shoes can be returned within 30 days of delivery if they are in resellable condition.",
+          "trace": {
+            "variant": "tool_first",
+            "route": "policy",
+            "active_topic": "policy",
+            "session_summary": "What is your return policy?",
+            "tool_calls": [
+              {
+                "tool_name": "get_return_policy_info",
+                "arguments": {},
+                "status": "completed"
+              }
+            ],
+            "routing_decision": {
+              "variant": "tool_first",
+              "rule": "query requests structured facts that map to tools",
+              "combined": false
+            }
+          },
+          "char_length": 93,
+          "synthesis_latency_ms": 654.5551249873824,
+          "wav_file": "tts_response_topic_switch_turn1.wav"
+        },
+        {
+          "turn": 2,
+          "query_text": "Actually, let's switch topics. Tell me about Product 1.",
+          "transcript": "Actually, let's switch topics. Tell me about product one.",
+          "exact_match": false,
+          "transcription_latency_ms": 3694.4895170163363,
+          "message": "Based on the provided evidence, there is no product explicitly labeled as \"product one.\" However, the first product listed in the evidence is the **Dyson V15 Detect Cordless Vacuum** (Document ID: product:7).\n\nHere are the details for this product:\n\n*   **Product Name:** Dyson V15 Detect Cordless Vacuum\n*   **SKU:** VAC-DYSON-V15\n*   **Category:** Home Appliances\n*   **Brand:** Dyson\n*   **Price:** 749.00 (74900 cents)\n*   **Rating:** 4.4 stars from 355 ratings (Rated \"Sehr gut\")\n*   **Key Features:**\n    *   Cordless stick vacuum.\n    *   Laser dust detection technology.\n    *   LCD screen that shows particle counts.\n*   **Customer Feedback:**\n    *   **Pros:** Users find the laser dust detection genuinely useful for seeing how dirty carpets are. It has great suction power.\n    *   **Cons:** The battery life is shorter than advertised when using the max suction mode, lasting around 12 minutes.\n\nIf you were referring to a different product,",
+          "trace": {
+            "variant": "tool_first",
+            "route": "fallback",
+            "active_topic": "product",
+            "session_summary": "Actually, let's switch topics. Tell me about product one.",
+            "tool_calls": [],
+            "fallback_evidence_count": 3,
+            "routing_decision": {
+              "variant": "tool_first",
+              "rule": "query requests structured facts that map to tools",
+              "combined": false
+            }
+          },
+          "char_length": 954,
+          "synthesis_latency_ms": 12236.25501402421,
+          "wav_file": "tts_response_topic_switch_turn2.wav"
+        }
+      ]
+    }
+  ],
+  "cross_model_tts_samples": [
+    {
+      "scenario_id": "sim-330a4c18-4",
+      "model": "llama32",
+      "variant": "tool_first",
+      "response_text": "No, it is not available in blue.",
+      "char_length": 32,
+      "synthesis_latency_ms": 275.0742800417356,
+      "wav_file": "tts_response_xmodel_sim-330a4c18-4_llama32_tool_first.wav"
+    },
+    {
+      "scenario_id": "session-topic-carryover",
+      "model": "phi4mini",
+      "variant": "tool_first",
+      "response_text": "Running shoes can be returned within 30 days of delivery if they are in resellable condition.",
+      "char_length": 93,
+      "synthesis_latency_ms": 761.2066089641303,
+      "wav_file": "tts_response_xmodel_session-topic-carryover_phi4mini_tool_first.wav"
+    },
+    {
+      "scenario_id": "catalog-lightest-under-budget",
+      "model": "phi4mini",
+      "variant": "tool_first",
+      "response_text": "The lightest running shoe under 100 euros is the FeatherFly Pro, which weighs 210 grams, costs 95 euros, and is made of engineered mesh.",
+      "char_length": 136,
+      "synthesis_latency_ms": 1037.5280270236544,
+      "wav_file": "tts_response_xmodel_catalog-lightest-under-budget_phi4mini_tool_first.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-15",
+      "model": "ministral3b",
+      "variant": "tool_first",
+      "response_text": "No, the warranty does **not** cover accidental damage for electronics purchased in the last 30 days. The provided policy only pertains to **return policies** for non-electronics (e.g., running shoes).",
+      "char_length": 200,
+      "synthesis_latency_ms": 1851.8424429930747,
+      "wav_file": "tts_response_xmodel_sim-330a4c18-15_ministral3b_tool_first.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-12",
+      "model": "qwen",
+      "variant": "retrieval",
+      "response_text": "Based on the provided evidence, there are no laptops available. The evidence only lists running shoes (FeatherFly Pro, TrailCore Max, and RoadSprint 3). Therefore, I cannot show you top-rated laptops under $1000 from this dataset.",
+      "char_length": 230,
+      "synthesis_latency_ms": 1480.939770990517,
+      "wav_file": "tts_response_xmodel_sim-330a4c18-12_qwen_retrieval.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-8",
+      "model": "gptoss20b",
+      "variant": "hybrid",
+      "response_text": "I\u2019m sorry, but I don\u2019t have any shipping\u2011policy information available for items over 50\u202fpounds. The data I retrieved relates to return policies, not shipping costs. If you can provide more details or let me know which shipping policy you\u2019re referring to, I\u2019ll do my best to help!",
+      "char_length": 279,
+      "synthesis_latency_ms": 1780.1981520024128,
+      "wav_file": "tts_response_xmodel_sim-330a4c18-8_gptoss20b_hybrid.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-15",
+      "model": "phi4mini",
+      "variant": "retrieval",
+      "response_text": "No, the warranty does not cover accidental damage for electronics purchased in the last 30 days. The provided evidence only mentions a return policy for running shoes within 30 days of delivery if they are in resellable condition. There is no mention of a warranty covering accidental damage for electronics.",
+      "char_length": 308,
+      "synthesis_latency_ms": 1946.1003430187702,
+      "wav_file": "tts_response_xmodel_sim-330a4c18-15_phi4mini_retrieval.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-19",
+      "model": "qwen",
+      "variant": "hybrid",
+      "response_text": "Based on the provided supporting evidence, there is no information regarding a product named \"Model X Running Shoes.\" The available product data lists the \"RoadSprint 3\" (which comes in blue) and the \"TrailCore Max\" (which comes in black), but neither matches the specific model you are asking about. Therefore, I cannot confirm if the Model X Running Shoes come in blue.",
+      "char_length": 371,
+      "synthesis_latency_ms": 2111.082228948362,
+      "wav_file": "tts_response_xmodel_sim-330a4c18-19_qwen_hybrid.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-14",
+      "model": "gptoss20b",
+      "variant": "hybrid",
+      "response_text": "I\u2019m sorry, but I don\u2019t have the shipping cost for a 65\u2011inch Samsung QLED TV to New\u202fYork in my current data set. Shipping rates can vary based on the retailer, shipping method, and any promotions or membership benefits you might have.  \n\n**What you can do next:**\n\n1. **Check the retailer\u2019s checkout page** \u2013 most online stores calculate shipping automatically once you enter the delivery address.  \n2. **Use a shipping calculator** \u2013 if you know the TV\u2019s weight (about 30",
+      "char_length": 471,
+      "synthesis_latency_ms": 3797.797358012758,
+      "wav_file": "tts_response_xmodel_sim-330a4c18-14_gptoss20b_hybrid.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-16",
+      "model": "ministral8b",
+      "variant": "retrieval",
+      "response_text": "Based on the provided evidence, the return policy specifically mentions **running shoes** and does not explicitly state the return window for **electronics** if the box is unopened.\n\nSince the policy does not cover electronics, you should check the retailer\u2019s official return policy for electronics (e.g., Amazon, Best Buy, or the specific store) for the correct return window. Typically, many retailers allow returns for unopened electronics within **14\u201330 days**, but this varies by retailer.\n\nFor the most accurate answer, verify with the seller\u2019s terms.",
+      "char_length": 557,
+      "synthesis_latency_ms": 4287.915448017884,
+      "wav_file": "tts_response_xmodel_sim-330a4c18-16_ministral8b_retrieval.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-16",
+      "model": "ministral14b",
+      "variant": "retrieval",
+      "response_text": "Based on the provided evidence, the return policy specifically mentions **running shoes** and does not address electronics. Since the policy does not cover electronics, you would need to check the retailer's general return policy for electronics.\n\nFor unopened electronics, most retailers typically offer a **return window of 14\u201330 days** (often with the original packaging and tags intact). However, since the evidence provided does not specify this, I recommend checking the retailer's official return policy or contacting their customer service for confirmation.\n\nWould you like help finding the policy for a specific retailer?",
+      "char_length": 630,
+      "synthesis_latency_ms": 4554.776281991508,
+      "wav_file": "tts_response_xmodel_sim-330a4c18-16_ministral14b_retrieval.wav"
+    },
+    {
+      "scenario_id": "catalog-product-lookup",
+      "model": "gptoss20b",
+      "variant": "hybrid",
+      "response_text": "**Product 2 \u2013 FeatherFly\u202fPro**\n\n| Attribute | Detail |\n|-----------|--------|\n| **ID** | 2 |\n| **SKU** | RUN\u2011002 |\n| **Name** | FeatherFly\u202fPro |\n| **Description** | Lightweight running shoe designed for fast sessions and races. |\n| **Price** | $95.00 (9,500\u202fcents) |\n| **Availability** | Active |\n| **Return Policy** | Returns allowed (policy code:\u202fRETURNS) |\n\n**Key Features**\n\n- **Weight:** 210\u202fg \u2013 one of the lightest options in our running\u2011shoe lineup.  \n- **Material:** Engineered mesh for breathability and flexibility.  \n- **Color:** White.  \n\n**Evidence**\n\n- The product record confirms the above details\u30101\u2020source:local_fixture\u3011.  \n- The supporting document \u201cFeatherFly\u202fPro\u201d lists the SKU, category, weight, material, color, and price\u30102\u2020source:",
+      "char_length": 752,
+      "synthesis_latency_ms": 8862.637545971666,
+      "wav_file": "tts_response_xmodel_catalog-product-lookup_gptoss20b_hybrid.wav"
+    },
+    {
+      "scenario_id": "document-explain-lightweight",
+      "model": "ministral14b",
+      "variant": "tool_first",
+      "response_text": "A lightweight design in race day running shoes, like the **FeatherFly Pro** (210 grams), matters because it helps runners achieve **faster speeds and better performance** during races. Lighter shoes reduce the overall effort required to move, allowing runners to conserve energy, maintain speed, and potentially improve their race times. This is especially important in competitive or long-distance races where every gram can impact endurance and efficiency.\n\nIn contrast, shoes like the **RoadSprint 3** (230 grams), designed for balanced daily training, are slightly heavier, making them less ideal for race-day conditions where speed and agility are prioritized. The lightweight construction of race-specific shoes often uses advanced materials like **engineered mesh** to minimize weight without sacrificing support or breathability.",
+      "char_length": 837,
+      "synthesis_latency_ms": 6904.721183003858,
+      "wav_file": "tts_response_xmodel_document-explain-lightweight_ministral14b_tool_first.wav"
+    },
+    {
+      "scenario_id": "sim-330a4c18-7",
+      "model": "ministral8b",
+      "variant": "hybrid",
+      "response_text": "Based on the provided structured facts and supporting evidence, **none of the listed products under $100 qualify as wireless headphones**. Here\u2019s why:\n\n1. **Price Constraint**: The top-rated wireless headphones in your search (e.g., **Sony WH-1000XM5** and **Bose QuietComfort 45**) are priced significantly above $100 (\u20ac349 and \u20ac329, respectively). The **Teufel Radio 3SIXTY** is also priced at **\u20ac285**, which exceeds your budget.\n\n2. **Product Category Mismatch**: The **Teufel Radio 3SIXTY** is a **Bluetooth-enabled radio speaker** (not headphones) with features like DAB+, Spotify, and 360\u00b0 sound. While highly rated (4.68 stars), it does not fit the criteria of wireless headphones.\n\n### **Top 3 *Potential* Wireless Headphones Under $100 (Based on Common Market Trends)**\nSince no products in your evidence meet the criteria, here are **three well-known wireless headphones typically under $100** (based on general market knowledge, not your data):\n1",
+      "char_length": 958,
+      "synthesis_latency_ms": 11566.597311990336,
+      "wav_file": "tts_response_xmodel_sim-330a4c18-7_ministral8b_hybrid.wav"
+    },
+    {
+      "scenario_id": "document-explain-lightweight",
+      "model": "ministral14b",
+      "variant": "hybrid",
+      "response_text": "A **lightweight design** in race day running shoes matters for several key performance and physiological reasons, supported by the provided product details:\n\n1. **Enhanced Speed and Efficiency**\n   - Lighter shoes reduce the **energy cost of running** by minimizing the effort required to lift and propel your legs with each stride. The **FeatherFly Pro** (210g) is explicitly designed for fast sessions and races, emphasizing speed. Studies (e.g., *Journal of Applied Biomechanics*) show that every **100g reduction in shoe weight** can improve race performance by **1\u20132%** due to reduced metabolic demand.\n\n2. **Reduced Fatigue**\n   - Heavier shoes accelerate muscle fatigue, especially during long races. The **RoadSprint 3** (230g) is marketed as a balanced training shoe, but its weight is **~20g heavier** than the FeatherFly Pro, suggesting it\u2019s optimized for endurance rather than sprinting. Lighter shoes like the FeatherFly Pro help maintain **leg turnover and pacing** over distance.\n\n3. **Faster Transition and Reduced Inertia**\n   - Lightweight materials (e.g., **engineered mesh** in the FeatherFly Pro)",
+      "char_length": 1117,
+      "synthesis_latency_ms": 11297.084300022107,
+      "wav_file": "tts_response_xmodel_document-explain-lightweight_ministral14b_hybrid.wav"
+    },
+    {
+      "scenario_id": "catalog-compare",
+      "model": "ministral3b",
+      "variant": "tool_first",
+      "response_text": "**Comparison Summary:**\n\n| **Attribute**       | **Product 1 (RoadSprint 3)**                          | **Product 3 (TrailCore Max)**                          |\n|---------------------|-------------------------------------------------------|-------------------------------------------------------|\n| **ID**              | 1                                                     | 3                                                     |\n| **SKU**             | RUN-001                                                | RUN-003                                                |\n| **Name**            | RoadSprint 3                                           | TrailCore Max                                          |\n| **Description**     | Balanced daily running shoe for road training.         | Cushioned running shoe with extra support for long runs. |\n| **Price (\u00a2)**       | **8,900**                                              | **10,900**                                             |\n| **Price Difference**| **-2,000** (Product 1 is **$0.20 cheaper**)             |                                                       |\n| **Active Status**   | \u2705 Yes                                                 | \u2705 Yes                                                 |\n| **Policy Codes**    | RETURNS                                                | RETURNS                                                |\n\n**Key Notes:**\n- **Same policies:** Both support **RETURNS**.\n- **Price:** Product 1 is **20% cheaper** than Product 3",
+      "char_length": 1519,
+      "synthesis_latency_ms": 10860.344938992057,
+      "wav_file": "tts_response_xmodel_catalog-compare_ministral3b_tool_first.wav"
+    }
+  ],
+  "tts_samples": [
+    {
+      "char_length": 93,
+      "synthesis_latency_ms": 624.8636910459027
+    },
+    {
+      "char_length": 203,
+      "synthesis_latency_ms": 1904.8823410412297
+    },
+    {
+      "char_length": 308,
+      "synthesis_latency_ms": 2622.197402000893
+    },
+    {
+      "char_length": 125,
+      "synthesis_latency_ms": 952.961326984223
+    },
+    {
+      "char_length": 369,
+      "synthesis_latency_ms": 2322.782050992828
+    },
+    {
+      "char_length": 35,
+      "synthesis_latency_ms": 299.49985403800383
+    },
+    {
+      "char_length": 93,
+      "synthesis_latency_ms": 615.789333009161
+    },
+    {
+      "char_length": 219,
+      "synthesis_latency_ms": 1040.6425189576112
+    },
+    {
+      "char_length": 384,
+      "synthesis_latency_ms": 3428.1253599910997
+    },
+    {
+      "char_length": 304,
+      "synthesis_latency_ms": 1774.8919159639627
+    },
+    {
+      "char_length": 241,
+      "synthesis_latency_ms": 1399.9281029682606
+    },
+    {
+      "char_length": 358,
+      "synthesis_latency_ms": 2008.350503980182
+    },
+    {
+      "char_length": 639,
+      "synthesis_latency_ms": 9843.512542021926
+    },
+    {
+      "char_length": 661,
+      "synthesis_latency_ms": 4806.893915985711
+    },
+    {
+      "char_length": 209,
+      "synthesis_latency_ms": 1342.320293013472
+    },
+    {
+      "char_length": 551,
+      "synthesis_latency_ms": 6700.270569999702
+    },
+    {
+      "char_length": 696,
+      "synthesis_latency_ms": 9202.312487992458
+    },
+    {
+      "char_length": 93,
+      "synthesis_latency_ms": 483.08227298548445
+    },
+    {
+      "char_length": 203,
+      "synthesis_latency_ms": 1915.365148044657
+    },
+    {
+      "char_length": 308,
+      "synthesis_latency_ms": 3044.3338280310854
+    },
+    {
+      "char_length": 125,
+      "synthesis_latency_ms": 1494.2192810121924
+    },
+    {
+      "char_length": 349,
+      "synthesis_latency_ms": 2081.4099790295586
+    },
+    {
+      "char_length": 45,
+      "synthesis_latency_ms": 394.6866960031912
+    },
+    {
+      "char_length": 93,
+      "synthesis_latency_ms": 620.3713580034673
+    },
+    {
+      "char_length": 221,
+      "synthesis_latency_ms": 1212.7412399859168
+    },
+    {
+      "char_length": 651,
+      "synthesis_latency_ms": 5667.944751970936
+    },
+    {
+      "char_length": 318,
+      "synthesis_latency_ms": 1808.0885019735433
+    },
+    {
+      "char_length": 223,
+      "synthesis_latency_ms": 1033.2150250324048
+    },
+    {
+      "char_length": 308,
+      "synthesis_latency_ms": 1791.87378694769
+    },
+    {
+      "char_length": 598,
+      "synthesis_latency_ms": 9692.66402599169
+    },
+    {
+      "char_length": 449,
+      "synthesis_latency_ms": 2838.517156022135
+    },
+    {
+      "char_length": 206,
+      "synthesis_latency_ms": 1258.8695570011623
+    },
+    {
+      "char_length": 732,
+      "synthesis_latency_ms": 11103.414158977102
+    },
+    {
+      "char_length": 735,
+      "synthesis_latency_ms": 11627.751181018539
+    },
+    {
+      "char_length": 93,
+      "synthesis_latency_ms": 633.6053150007501
+    },
+    {
+      "char_length": 102,
+      "synthesis_latency_ms": 604.0208670310676
+    },
+    {
+      "char_length": 93,
+      "synthesis_latency_ms": 654.5551249873824
+    },
+    {
+      "char_length": 954,
+      "synthesis_latency_ms": 12236.25501402421
+    },
+    {
+      "char_length": 32,
+      "synthesis_latency_ms": 275.0742800417356
+    },
+    {
+      "char_length": 93,
+      "synthesis_latency_ms": 761.2066089641303
+    },
+    {
+      "char_length": 136,
+      "synthesis_latency_ms": 1037.5280270236544
+    },
+    {
+      "char_length": 200,
+      "synthesis_latency_ms": 1851.8424429930747
+    },
+    {
+      "char_length": 230,
+      "synthesis_latency_ms": 1480.939770990517
+    },
+    {
+      "char_length": 279,
+      "synthesis_latency_ms": 1780.1981520024128
+    },
+    {
+      "char_length": 308,
+      "synthesis_latency_ms": 1946.1003430187702
+    },
+    {
+      "char_length": 371,
+      "synthesis_latency_ms": 2111.082228948362
+    },
+    {
+      "char_length": 471,
+      "synthesis_latency_ms": 3797.797358012758
+    },
+    {
+      "char_length": 557,
+      "synthesis_latency_ms": 4287.915448017884
+    },
+    {
+      "char_length": 630,
+      "synthesis_latency_ms": 4554.776281991508
+    },
+    {
+      "char_length": 752,
+      "synthesis_latency_ms": 8862.637545971666
+    },
+    {
+      "char_length": 837,
+      "synthesis_latency_ms": 6904.721183003858
+    },
+    {
+      "char_length": 958,
+      "synthesis_latency_ms": 11566.597311990336
+    },
+    {
+      "char_length": 1117,
+      "synthesis_latency_ms": 11297.084300022107
+    },
+    {
+      "char_length": 1519,
+      "synthesis_latency_ms": 10860.344938992057
+    }
+  ]
+}

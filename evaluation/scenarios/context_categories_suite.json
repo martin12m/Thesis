@@ -1,0 +1,64 @@
+[
+  {
+    "id": "policy-return-basic",
+    "category": "structured_business_context",
+    "user_turn": "What is your return policy?",
+    "expected_answer_contains": ["30 days"],
+    "expected_evidence_ids": ["policy:1"],
+    "required_context_terms": ["return"],
+    "expected_tool_names": ["get_return_policy_info"]
+  },
+  {
+    "id": "catalog-product-lookup",
+    "category": "catalog_context",
+    "user_turn": "Tell me about product 2.",
+    "expected_answer_contains": ["FeatherFly Pro"],
+    "expected_tool_names": ["get_product_by_id"]
+  },
+  {
+    "id": "catalog-compare",
+    "category": "catalog_context",
+    "user_turn": "Compare product 1 and product 3.",
+    "expected_answer_contains": ["RoadSprint 3", "TrailCore Max"],
+    "expected_tool_names": ["compare_products"]
+  },
+  {
+    "id": "catalog-lightest-under-budget",
+    "category": "structured_business_context",
+    "user_turn": "What is the lightest running shoe under 100 euros?",
+    "expected_answer_contains": ["FeatherFly Pro"],
+    "required_context_terms": ["210"],
+    "expected_tool_names": ["get_lightest_product_under_price"]
+  },
+  {
+    "id": "document-explain-lightweight",
+    "category": "document_context",
+    "user_turn": "Why might a lightweight design matter for race day running shoes?",
+    "expected_evidence_ids": ["product:2"],
+    "required_context_terms": ["lightweight"]
+  },
+  {
+    "id": "session-topic-carryover",
+    "category": "session_context",
+    "user_turn": "And how many days do I have to return it?",
+    "session_context": {
+      "turn_history": ["What is your return policy?"],
+      "active_topic": "policy",
+      "session_summary": "What is your return policy?"
+    },
+    "expected_answer_contains": ["30"],
+    "required_context_terms": ["return"]
+  },
+  {
+    "id": "catalog-reviews",
+    "category": "catalog_context",
+    "user_turn": "What do the reviews say about product 2?",
+    "expected_tool_names": ["get_product_reviews"]
+  },
+  {
+    "id": "policy-shipping-fallback",
+    "category": "structured_business_context",
+    "user_turn": "What is your shipping policy?",
+    "expected_tool_names": ["get_shipping_policy_info"]
+  }
+]
